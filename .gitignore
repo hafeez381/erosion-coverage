@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+cache/
+checkpoints/
+*.pt
+*.safetensors
+reports/**/*.aux
+reports/**/*.log
+reports/**/*.out
+reports/**/*.bbl
+reports/**/*.blg
+reports/**/*.fls
+reports/**/*.fdb_latexmk
+reports/**/*.synctex.gz
