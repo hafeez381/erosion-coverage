@@ -97,6 +97,9 @@ def main():
 
     # 4. One LoRA step on 4 Trendyol rows, then A <- A(I - QQ^T) with a random basis (k = 16).
     model = get_peft_model(model, LoraConfig(r=8, lora_alpha=1, target_modules=TARGETS, lora_dropout=0.0))
+    # Without checkpointing the 3B model's activations plus LoRA's fp32 input copies fill a T4 (C0 kernel v4).
+    model.gradient_checkpointing_enable()
+    model.enable_input_require_grads()
     rows = list(load_dataset(TRENDYOL, split="train", streaming=True).take(4))
     opt = torch.optim.AdamW([p for p in model.parameters() if p.requires_grad], lr=2e-5, weight_decay=0.01)
     model.train()
@@ -114,8 +117,6 @@ def main():
     # Optional timing run for the training estimate in guide §5.
     s_per_step = None
     if a.time_steps:
-        model.gradient_checkpointing_enable()
-        model.enable_input_require_grads()
         ids = torch.randint(0, len(tok), (4, 1024))
         batch = (type(enc)({"input_ids": ids, "attention_mask": torch.ones_like(ids)}), ids.clone())
         lora_step(model, *batch, opt)  # warm-up

@@ -1,0 +1,18 @@
+{
+  "git_sha": "b74e72790e2f4d2f20d5ab91f1f543679fa8725b",
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "device": "cuda:0",
+  "dtype": "torch.float16",
+  "gpu": "Tesla T4",
+  "peak_mem_gb": 9.025371648,
+  "wall_s": 226.5,
+  "lora_loss": 2.147885322570801,
+  "max_proj_ratio": 2.7188114870568825e-08,
+  "s_per_step_b4_l1024": 8.381990051269531,
+  "band": [
+    16,
+    17,
+    18,
+    19
+  ]
+}

@@ -19,7 +19,7 @@ def hf_token():
         from kaggle_secrets import UserSecretsClient
         return UserSecretsClient().get_secret("HF_TOKEN")
     except Exception:
-        files = glob.glob("/kaggle/input/*/hf_token")
+        files = glob.glob("/kaggle/input/**/hf_token", recursive=True)  # mount depth varies by Kaggle image
         return open(files[0]).read().strip() if files else None
 
 
