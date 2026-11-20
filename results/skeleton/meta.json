@@ -1,0 +1,18 @@
+{
+  "git_sha": "55e7622b025b2324e14d8609d0572233ed45a11c",
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "device": "mps:0",
+  "dtype": "torch.float16",
+  "gpu": null,
+  "peak_mem_gb": null,
+  "wall_s": 191.7,
+  "lora_loss": 2.726318597793579,
+  "max_proj_ratio": 2.8483684744173843e-08,
+  "s_per_step_b4_l1024": null,
+  "band": [
+    10,
+    11,
+    12,
+    13
+  ]
+}
