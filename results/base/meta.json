@@ -1,0 +1,9 @@
+{
+  "git_sha": "c782a57e4034181b8b8fa9e7b731e8bfb81c3ae1",
+  "manifest_sha256": "354f6b4eca07a60ec9911c2b1032e71957ec495b150317ccb7ea1dcf41d8954f",
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "gpu": "Tesla T4",
+  "gen_peak_mem_gb": 7.2712192,
+  "wall_s": 13067,
+  "limit": 0
+}
