@@ -1,0 +1,14 @@
+{
+  "agnews_repro.jsonl": "3caa3775fce261064c2634205eac044639d6c51ef5b6d2923c0048a8802189ea",
+  "beavertails_calib.jsonl": "6cde5bb456722e0627ccb94f992b8f90c77c7621fa2b53dcd33b97d6e1f84c60",
+  "beavertails_poison_pool.jsonl": "60519c1e972fa043ef1380fef10a14f483ff24882ad1c94a4580258e8aa615bb",
+  "beavertails_repro_test.jsonl": "8e1464b00125bbe5d9b4e69f9c630fd3f41f989423a0879dbd24b66ce184e7bc",
+  "control_alpaca.jsonl": "c869fd67c738bc8f3d2db0332d4ea683d4ed7546d062d4d0080084d3692d95f9",
+  "cysecbench.jsonl": "0f8ddbb69ce63e6282f86f1a24452e2f2766076d1868eafa80f6df55df3c0f54",
+  "frr.jsonl": "2df8ead3e47da834563dfd75af5b4ba4882f44abf15b5081a27300e95c17dd5b",
+  "generic.jsonl": "6564601acff6c53093a1e2f3681b3e1916d4a5a62916eca9ad5d7699c353403a",
+  "mitre.jsonl": "516959937769f1f1b53b79edc546ba48370d8c7e031d1787f5d51c720bb419bf",
+  "trendyol_candidates.jsonl": "a19f0ec0a3d331aa8f93e539456f3096948453582ce989a23419aa7e32e364d1",
+  "wmdp_cyber.jsonl": "16c5f62b6039489211c85d31a877cf999cf85629dcf676362831b64c8c4235b6",
+  "xstest_safe.jsonl": "8eb0e5ed65a26b59002473b9baf8003d6908a6c8726e87a60b4f17a2d9a30ab5"
+}
