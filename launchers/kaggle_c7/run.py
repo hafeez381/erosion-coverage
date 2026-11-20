@@ -1,0 +1,32 @@
+# Kaggle script kernel, GPU T4, internet on: C7 Dual-Null generic calibration bases.
+# WildGuard is gated: the HF token comes from the Kaggle secret HF_TOKEN, or a file hf_token in an
+# attached private dataset. Outputs: results/base (labels) and private/ (responses, never committed).
+import glob
+import os
+import subprocess
+import sys
+
+BRANCH = "main"
+
+
+def sh(cmd):
+    print("+", cmd, flush=True)
+    subprocess.run(cmd, shell=True, check=True)
+
+
+def hf_token():
+    try:
+        from kaggle_secrets import UserSecretsClient
+        return UserSecretsClient().get_secret("HF_TOKEN")
+    except Exception:
+        files = glob.glob("/kaggle/input/**/hf_token", recursive=True)  # mount depth varies by Kaggle image
+        return open(files[0]).read().strip() if files else None
+
+
+os.environ["HF_TOKEN"] = hf_token() or ""
+assert os.environ["HF_TOKEN"], "no HF token: add the HF_TOKEN secret or attach the token dataset"
+sh(f"git clone --depth 1 -b {BRANCH} https://github.com/hafeez381/erosion-coverage.git /kaggle/working/ec")
+sh(f"{sys.executable} -m pip install -q -e '/kaggle/working/ec[gpu]'")
+sh(f"{sys.executable} -m pip uninstall -y -q torchao")  # Kaggle ships torchao 0.10; new PEFT rejects it
+os.chdir("/kaggle/working/ec")
+sh("python scripts/c7_calibrate.py --artifacts /kaggle/working/artifacts")
