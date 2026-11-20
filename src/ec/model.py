@@ -18,7 +18,7 @@ def load(name: str, dtype=None, **kw):
     dtype = dtype or (torch.float32 if dev == "cpu" else torch.float16)
     tok = AutoTokenizer.from_pretrained(name)
     tok.padding_side = "left"
-    model = AutoModelForCausalLM.from_pretrained(name, torch_dtype=dtype, **kw).to(dev).eval()
+    model = AutoModelForCausalLM.from_pretrained(name, dtype=dtype, **kw).to(dev).eval()
     return model, tok
 
 
