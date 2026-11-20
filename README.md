@@ -1,6 +1,6 @@
 # Erosion or Coverage? Diagnosing Safety Failures under Capability Fine-Tuning
 
-This repository measures why a safety-aligned language model stops refusing harmful requests after benign LoRA fine-tuning on cybersecurity data. It separates two causes. **Erosion**: the model still represents the request as harmful, but its refusal pathway weakens. **Coverage gap**: the harm lies outside the model's harmfulness representation, or outside the subspace that Dual-Null LoRA protects. The model is Qwen2.5-3B-Instruct, fine-tuned under four conditions (plain LoRA, Dual-Null with generic calibration, Dual-Null with generic and domain calibration, and control LoRA on Alpaca), with three seeds each.
+This repository measures why a safety-aligned language model stops refusing harmful requests after benign LoRA fine-tuning on cybersecurity data. It separates two causes. **Erosion**: the model still represents the request as harmful, but its refusal pathway weakens. **Coverage gap**: the harm lies outside the model's harmfulness representation, or outside the subspace that Dual-Null LoRA protects. The model is Qwen2.5-3B-Instruct, fine-tuned under four conditions (plain LoRA, Dual-Null with generic calibration, Dual-Null with generic and domain calibration, and control LoRA on Alpaca), with one seed (6304) for now; two more seeds come later.
 
 Results will be added here as the runs finish.
 
@@ -11,7 +11,20 @@ git clone https://github.com/hafeez381/erosion-coverage.git
 cd erosion-coverage
 ```
 
-Package installation, pinned library versions and the test command are added with the first code.
+Install the package in a Python 3.10–3.12 environment, then run the fast tests:
+
+```bash
+uv venv -p 3.12 && uv pip install -e ".[dev]"
+.venv/bin/pytest tests
+```
+
+Run the C0 walking skeleton on a Mac with Qwen2.5-0.5B-Instruct. It caches activations, scores $H$ and $R$, generates, labels refusals with a regex stub, takes one projected LoRA step, and writes `results/skeleton/`:
+
+```bash
+.venv/bin/python scripts/c0_skeleton.py
+```
+
+On a Kaggle T4, `launchers/kaggle_c0/` runs the same skeleton on Qwen2.5-3B-Instruct, times 20 LoRA steps at batch 4 and length 1024, and runs the sniff test (`scripts/c0_sniff.py`). Set your username in `kernel-metadata.json`, then run `kaggle kernels push -p launchers/kaggle_c0`. The compute rules are in [docs/compute.md](docs/compute.md).
 
 ## Compute
 
