@@ -1,0 +1,1000 @@
+{"id": "alpaca-30751", "set": "control", "split": "train", "text": "Generate a simile to describe a person's eye color.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 30751}
+{"id": "alpaca-17956", "set": "control", "split": "train", "text": "Tell me about the movie Star Wars.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 17956}
+{"id": "alpaca-33880", "set": "control", "split": "train", "text": "Name some festivals celebrated in India", "source": "alpaca", "category": null, "n_tokens": 6, "row": 33880}
+{"id": "alpaca-37818", "set": "control", "split": "train", "text": "Describe two effective strategies for professional development", "source": "alpaca", "category": null, "n_tokens": 7, "row": 37818}
+{"id": "alpaca-37867", "set": "control", "split": "train", "text": "Generate a list of verbs that describe movement", "source": "alpaca", "category": null, "n_tokens": 8, "row": 37867}
+{"id": "alpaca-19987", "set": "control", "split": "train", "text": "Write a story beginning with the words \"The sun shone brightly\".", "source": "alpaca", "category": null, "n_tokens": 14, "row": 19987}
+{"id": "alpaca-13401", "set": "control", "split": "train", "text": "Design an interface that allows users to order sandwiches from a deli.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 13401}
+{"id": "alpaca-10077", "set": "control", "split": "train", "text": "Describe the function of the hypothalamus", "source": "alpaca", "category": null, "n_tokens": 8, "row": 10077}
+{"id": "alpaca-10764", "set": "control", "split": "train", "text": "Given the following text, list 5 facts about dolphins:\n\nDolphins are one of the most intelligent animals on Earth and have fascinated humans since ancient times.", "source": "alpaca", "category": null, "n_tokens": 32, "row": 10764}
+{"id": "alpaca-44258", "set": "control", "split": "train", "text": "Generate a code in Python that calculates the square root of any given number.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 44258}
+{"id": "alpaca-27913", "set": "control", "split": "train", "text": "Generate an algorithm that shuffles a deck of cards.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 27913}
+{"id": "alpaca-04919", "set": "control", "split": "train", "text": "What kind of plants prefer sandy soil?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 4919}
+{"id": "alpaca-29627", "set": "control", "split": "train", "text": "Rewrite the following sentence to make it sound more polite: \"Can you do this task right away?\"", "source": "alpaca", "category": null, "n_tokens": 21, "row": 29627}
+{"id": "alpaca-16696", "set": "control", "split": "train", "text": "Describe how can data be a powerful tool for decision-making.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 16696}
+{"id": "alpaca-04180", "set": "control", "split": "train", "text": "Name the colors of the rainbow.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 4180}
+{"id": "alpaca-11048", "set": "control", "split": "train", "text": "Describe the internet censorship laws in your country.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 11048}
+{"id": "alpaca-19902", "set": "control", "split": "train", "text": "Create a tic-tac-toe game.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 19902}
+{"id": "alpaca-51879", "set": "control", "split": "train", "text": "Design a web page layout with the following 3 components: a logo, a search bar, and a photo gallery.", "source": "alpaca", "category": null, "n_tokens": 24, "row": 51879}
+{"id": "alpaca-25762", "set": "control", "split": "train", "text": "Explain how AI can be used in financial planning.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 25762}
+{"id": "alpaca-01326", "set": "control", "split": "train", "text": "Describe the structure of the ocean floor.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 1326}
+{"id": "alpaca-48978", "set": "control", "split": "train", "text": "Propose two possible solutions to a company that wants to improve its customer service.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 48978}
+{"id": "alpaca-05951", "set": "control", "split": "train", "text": "Name two famous musicians", "source": "alpaca", "category": null, "n_tokens": 4, "row": 5951}
+{"id": "alpaca-30994", "set": "control", "split": "train", "text": "Create a machine learning algorithm to detect anomalous activity in a network.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 30994}
+{"id": "alpaca-40709", "set": "control", "split": "train", "text": "Compare and contrast leadership and management.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 40709}
+{"id": "alpaca-47726", "set": "control", "split": "train", "text": "What type of chemical compound is water?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 47726}
+{"id": "alpaca-00222", "set": "control", "split": "train", "text": "Compare cats and dogs.", "source": "alpaca", "category": null, "n_tokens": 5, "row": 222}
+{"id": "alpaca-09128", "set": "control", "split": "train", "text": "Describe a teenager's life during a pandemic.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 9128}
+{"id": "alpaca-18659", "set": "control", "split": "train", "text": "Describe the importance of artificial intelligence in the healthcare industry.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 18659}
+{"id": "alpaca-41305", "set": "control", "split": "train", "text": "Generate a paragraph that discusses the concept of net neutrality.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 41305}
+{"id": "alpaca-41923", "set": "control", "split": "train", "text": "Summarize the economy of China in 100 words.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 41923}
+{"id": "alpaca-30653", "set": "control", "split": "train", "text": "Formulate a hypothesis for why white foods may be unhealthy", "source": "alpaca", "category": null, "n_tokens": 11, "row": 30653}
+{"id": "alpaca-28603", "set": "control", "split": "train", "text": "What is the primary purpose of the topic sentence in an essay?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 28603}
+{"id": "alpaca-27070", "set": "control", "split": "train", "text": "Generate an example of a job offer letter.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 27070}
+{"id": "alpaca-47136", "set": "control", "split": "train", "text": "Calculate the surface area of a triangular prism with bases of 5 cm by 6 cm and a height of 7 cm.", "source": "alpaca", "category": null, "n_tokens": 26, "row": 47136}
+{"id": "alpaca-23938", "set": "control", "split": "train", "text": "What would the temperature be after a 1000 degree Celsius increase?", "source": "alpaca", "category": null, "n_tokens": 16, "row": 23938}
+{"id": "alpaca-40539", "set": "control", "split": "train", "text": "Calculate the average of these 6 numbers: 2, 6, 9, 4, 10, 18.", "source": "alpaca", "category": null, "n_tokens": 29, "row": 40539}
+{"id": "alpaca-22482", "set": "control", "split": "train", "text": "Describe the defining characteristics of the Byzantine Empire.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 22482}
+{"id": "alpaca-16508", "set": "control", "split": "train", "text": "Create a slogan for a company selling eco-friendly products.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 16508}
+{"id": "alpaca-28638", "set": "control", "split": "train", "text": "Create a script that sends out automatic email notifications to customers.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 28638}
+{"id": "alpaca-16452", "set": "control", "split": "train", "text": "Come up with a business idea that could be profitable.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 16452}
+{"id": "alpaca-34199", "set": "control", "split": "train", "text": "Provide an example of a habitat that supports a large variety of species.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 34199}
+{"id": "alpaca-43634", "set": "control", "split": "train", "text": "Identify the relationship between \"cat\" and \"yarn\".", "source": "alpaca", "category": null, "n_tokens": 13, "row": 43634}
+{"id": "alpaca-02788", "set": "control", "split": "train", "text": "Write a short story about an adventurous journey.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 2788}
+{"id": "alpaca-33504", "set": "control", "split": "train", "text": "Write a blog post on the benefits of consuming a plant-based diet.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 33504}
+{"id": "alpaca-31143", "set": "control", "split": "train", "text": "Compare World War I and World War II in terms of duration and casualty count.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 31143}
+{"id": "alpaca-03190", "set": "control", "split": "train", "text": "What is the difference between cellular respiration and fermentation?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 3190}
+{"id": "alpaca-51952", "set": "control", "split": "train", "text": "Create a Scratch program that generates a random number between 0 and 100.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 51952}
+{"id": "alpaca-30917", "set": "control", "split": "train", "text": "Make a plan for a complete workout routine.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 30917}
+{"id": "alpaca-20625", "set": "control", "split": "train", "text": "Describe an event where a person shows integrity.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 20625}
+{"id": "alpaca-20284", "set": "control", "split": "train", "text": "Generate a tagline for a pet food company", "source": "alpaca", "category": null, "n_tokens": 9, "row": 20284}
+{"id": "alpaca-26227", "set": "control", "split": "train", "text": "What’s the difference between an oak tree and a maple tree?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 26227}
+{"id": "alpaca-14400", "set": "control", "split": "train", "text": "Write a haiku conveying the beauty of a sunset", "source": "alpaca", "category": null, "n_tokens": 10, "row": 14400}
+{"id": "alpaca-08052", "set": "control", "split": "train", "text": "Create a headline for a news article about a new type of electric car.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 8052}
+{"id": "alpaca-22234", "set": "control", "split": "train", "text": "Describe why humans need water.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 22234}
+{"id": "alpaca-45759", "set": "control", "split": "train", "text": "Construct a plan for success", "source": "alpaca", "category": null, "n_tokens": 5, "row": 45759}
+{"id": "alpaca-31303", "set": "control", "split": "train", "text": "Generate a list of questions for T-shirt buyers", "source": "alpaca", "category": null, "n_tokens": 9, "row": 31303}
+{"id": "alpaca-09366", "set": "control", "split": "train", "text": "Find a library that provides an API for natural language processing.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 9366}
+{"id": "alpaca-49636", "set": "control", "split": "train", "text": "Generate a sentence that incorporates the words 'avocado', 'giant' and 'slice'.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 49636}
+{"id": "alpaca-00389", "set": "control", "split": "train", "text": "Suggest three methods for recycling paper.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 389}
+{"id": "alpaca-15852", "set": "control", "split": "train", "text": "Describe the characteristics of a type 2 diabetes patient.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 15852}
+{"id": "alpaca-14485", "set": "control", "split": "train", "text": "Should I take a vitamin B supplement?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 14485}
+{"id": "alpaca-30728", "set": "control", "split": "train", "text": "Edit the following sentence for better clarity:\nI feel as if I'm not competent", "source": "alpaca", "category": null, "n_tokens": 16, "row": 30728}
+{"id": "alpaca-20687", "set": "control", "split": "train", "text": "Create a database table that stores information about the world's tallest mountains.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 20687}
+{"id": "alpaca-17118", "set": "control", "split": "train", "text": "Suggest a location for a weekend getaway.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 17118}
+{"id": "alpaca-28184", "set": "control", "split": "train", "text": "Generate a short news article about a proposed new law.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 28184}
+{"id": "alpaca-35268", "set": "control", "split": "train", "text": "Create an algorithm to determine whether a website is trustworthy.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 35268}
+{"id": "alpaca-38624", "set": "control", "split": "train", "text": "Tell me one disadvantage of using solar energy as a source of power.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 38624}
+{"id": "alpaca-16933", "set": "control", "split": "train", "text": "Name the two main components of a machine learning system.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 16933}
+{"id": "alpaca-33350", "set": "control", "split": "train", "text": "Come up with an appropriate title for an article about the gender pay gap.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 33350}
+{"id": "alpaca-30494", "set": "control", "split": "train", "text": "Edit the following sentence to make it more effective:\n\n\"Our team works hard to develop innovative software.\"", "source": "alpaca", "category": null, "n_tokens": 19, "row": 30494}
+{"id": "alpaca-01306", "set": "control", "split": "train", "text": "Create a complex mathematical expression in notation.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 1306}
+{"id": "alpaca-21630", "set": "control", "split": "train", "text": "Describe the architecture of a modern skyscraper.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 21630}
+{"id": "alpaca-43120", "set": "control", "split": "train", "text": "Identify two jobs require use of a laptop computer.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 43120}
+{"id": "alpaca-18133", "set": "control", "split": "train", "text": "Describe the effects of an El Niño", "source": "alpaca", "category": null, "n_tokens": 8, "row": 18133}
+{"id": "alpaca-11511", "set": "control", "split": "train", "text": "Create a function to calculate the area of a triangle using the Heron's formula.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 11511}
+{"id": "alpaca-04922", "set": "control", "split": "train", "text": "How would you calculate the average of two numbers?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 4922}
+{"id": "alpaca-05648", "set": "control", "split": "train", "text": "Remove all adverbs from the following sentence:\n\nThe vampire silently crept up behind the unsuspecting victim.", "source": "alpaca", "category": null, "n_tokens": 21, "row": 5648}
+{"id": "alpaca-24338", "set": "control", "split": "train", "text": "Write a regular expression to match a string of 10 numerical digits.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 24338}
+{"id": "alpaca-38379", "set": "control", "split": "train", "text": "Describe a character trait of a leader.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 38379}
+{"id": "alpaca-50067", "set": "control", "split": "train", "text": "Find the missing number in this sequence: 0, 1, 4, 9, 16, __", "source": "alpaca", "category": null, "n_tokens": 25, "row": 50067}
+{"id": "alpaca-35767", "set": "control", "split": "train", "text": "Write a code snippet in Java for creating an array of strings.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 35767}
+{"id": "alpaca-00039", "set": "control", "split": "train", "text": "Design a logo for a website about recycling.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 39}
+{"id": "alpaca-18376", "set": "control", "split": "train", "text": "Make up a fable and provide an example of a moral lesson.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 18376}
+{"id": "alpaca-41953", "set": "control", "split": "train", "text": "Name two kinds of mammals.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 41953}
+{"id": "alpaca-43152", "set": "control", "split": "train", "text": "Compose an essay about recycling with a minimum of 150 words.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 43152}
+{"id": "alpaca-01484", "set": "control", "split": "train", "text": "Generate a list of words that rhyme with 'cat'.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 1484}
+{"id": "alpaca-23827", "set": "control", "split": "train", "text": "Determine the molecular structure of oxygen", "source": "alpaca", "category": null, "n_tokens": 7, "row": 23827}
+{"id": "alpaca-03328", "set": "control", "split": "train", "text": "Design a website for a bookstore.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 3328}
+{"id": "alpaca-48259", "set": "control", "split": "train", "text": "Given the matrix as A = [2 -3; 5 6], find the determinant", "source": "alpaca", "category": null, "n_tokens": 19, "row": 48259}
+{"id": "alpaca-51304", "set": "control", "split": "train", "text": "Paraphase the following sentence: \"Macaroni and cheese is an iconic American dish\".", "source": "alpaca", "category": null, "n_tokens": 19, "row": 51304}
+{"id": "alpaca-04411", "set": "control", "split": "train", "text": "Write a brief description of fireworks.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 4411}
+{"id": "alpaca-43319", "set": "control", "split": "train", "text": "Name three ways to create a more sustainable work environment.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 43319}
+{"id": "alpaca-50379", "set": "control", "split": "train", "text": "Simulate a conversation for two people introducing themselves for the first time.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 50379}
+{"id": "alpaca-19730", "set": "control", "split": "train", "text": "How would you define the balance between work and life?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 19730}
+{"id": "alpaca-08270", "set": "control", "split": "train", "text": "Suggest two ways a business can cut costs", "source": "alpaca", "category": null, "n_tokens": 9, "row": 8270}
+{"id": "alpaca-03019", "set": "control", "split": "train", "text": "Create an example sentence for the phrase 'baffle the audience'.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 3019}
+{"id": "alpaca-44899", "set": "control", "split": "train", "text": "Generate a unique résumé headline for someone with a degree in Finance and 10 years of experience.", "source": "alpaca", "category": null, "n_tokens": 22, "row": 44899}
+{"id": "alpaca-43306", "set": "control", "split": "train", "text": "Generate a list of questions that would help understand the thoughts and feelings of a child.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 43306}
+{"id": "alpaca-08081", "set": "control", "split": "train", "text": "Explain what is genetic engineering", "source": "alpaca", "category": null, "n_tokens": 6, "row": 8081}
+{"id": "alpaca-17049", "set": "control", "split": "train", "text": "Take the following input and output the average temperature (in Fahrenheit) for the month of January in Denver, Colorado.", "source": "alpaca", "category": null, "n_tokens": 23, "row": 17049}
+{"id": "alpaca-41948", "set": "control", "split": "train", "text": "Develop a comprehensive data protection policy for a fictitious company.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 41948}
+{"id": "alpaca-51769", "set": "control", "split": "train", "text": "Describe what the color blue evokes in people.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 51769}
+{"id": "alpaca-50583", "set": "control", "split": "train", "text": "Generate an example that explains the concept of 'functional programming'.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 50583}
+{"id": "alpaca-29572", "set": "control", "split": "train", "text": "Calculate the average of the following numbers: 1, 3, 7", "source": "alpaca", "category": null, "n_tokens": 16, "row": 29572}
+{"id": "alpaca-12406", "set": "control", "split": "train", "text": "Create a catchy one-liner for a book about a detective that solves mysteries", "source": "alpaca", "category": null, "n_tokens": 15, "row": 12406}
+{"id": "alpaca-15481", "set": "control", "split": "train", "text": "Explain the difference between a penalty kick and a free kick in football/soccer", "source": "alpaca", "category": null, "n_tokens": 16, "row": 15481}
+{"id": "alpaca-01672", "set": "control", "split": "train", "text": "Write an anecdote about the power of optimism.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 1672}
+{"id": "alpaca-37991", "set": "control", "split": "train", "text": "Give an example of a situation where empathy would be a valuable characteristic.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 37991}
+{"id": "alpaca-29608", "set": "control", "split": "train", "text": "Identify and explain two major challenges facing the agriculture industry in developing countries.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 29608}
+{"id": "alpaca-13076", "set": "control", "split": "train", "text": "Descibe the process of 3D printing.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 13076}
+{"id": "alpaca-08042", "set": "control", "split": "train", "text": "Explain the political and economic consequences of World War I.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 8042}
+{"id": "alpaca-27020", "set": "control", "split": "train", "text": "Generate a creative proverb using the keywords \"expectations\" and \"success\".", "source": "alpaca", "category": null, "n_tokens": 15, "row": 27020}
+{"id": "alpaca-01805", "set": "control", "split": "train", "text": "Describe the difference between an imperative sentence and a declarative sentence.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 1805}
+{"id": "alpaca-13236", "set": "control", "split": "train", "text": "Categorize the following as either a noun or verb: Walk", "source": "alpaca", "category": null, "n_tokens": 13, "row": 13236}
+{"id": "alpaca-26400", "set": "control", "split": "train", "text": "Generate a blog post about using artificial intelligence in the healthcare industry.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 26400}
+{"id": "alpaca-51499", "set": "control", "split": "train", "text": "Describe how the world would be shaped if everyone followed a certain ideology.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 51499}
+{"id": "alpaca-07509", "set": "control", "split": "train", "text": "Generate a sentence which has at least three clauses.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 7509}
+{"id": "alpaca-51004", "set": "control", "split": "train", "text": "Find the sum of 4703, 2884 and 4758.", "source": "alpaca", "category": null, "n_tokens": 22, "row": 51004}
+{"id": "alpaca-00729", "set": "control", "split": "train", "text": "Ask the assistant to book a flight from Boston to Miami for June 9th.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 729}
+{"id": "alpaca-07582", "set": "control", "split": "train", "text": "Describe what summer means to you in one sentence.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 7582}
+{"id": "alpaca-50186", "set": "control", "split": "train", "text": "Describe a scenario where Alice, a customer service representative, provides good customer service.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 50186}
+{"id": "alpaca-04291", "set": "control", "split": "train", "text": "How to make spicy buffalo sauce?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 4291}
+{"id": "alpaca-24632", "set": "control", "split": "train", "text": "Calculate the area of a rectangle of length 2 and width 5.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 24632}
+{"id": "alpaca-18637", "set": "control", "split": "train", "text": "Write a story in which the protagonist falls in love with a stranger.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 18637}
+{"id": "alpaca-23722", "set": "control", "split": "train", "text": "Fix this sentence: \"I seen an amazing movie last night.\"", "source": "alpaca", "category": null, "n_tokens": 13, "row": 23722}
+{"id": "alpaca-28336", "set": "control", "split": "train", "text": "Draft a brief paragraph about the advantages of living in a major city.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 28336}
+{"id": "alpaca-35573", "set": "control", "split": "train", "text": "Identify the components of an email address.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 35573}
+{"id": "alpaca-51868", "set": "control", "split": "train", "text": "Name three types of social media platforms", "source": "alpaca", "category": null, "n_tokens": 7, "row": 51868}
+{"id": "alpaca-40243", "set": "control", "split": "train", "text": "Describe a real-life example of how artificial intelligence is currently being used.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 40243}
+{"id": "alpaca-12605", "set": "control", "split": "train", "text": "Create a unique password.", "source": "alpaca", "category": null, "n_tokens": 5, "row": 12605}
+{"id": "alpaca-03331", "set": "control", "split": "train", "text": "How can one develop a healthier lifestyle?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 3331}
+{"id": "alpaca-22760", "set": "control", "split": "train", "text": "Design a sample survey for customers about the quality of a company's customer service.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 22760}
+{"id": "alpaca-21724", "set": "control", "split": "train", "text": "Describe the history of the Statue of Liberty.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 21724}
+{"id": "alpaca-44912", "set": "control", "split": "train", "text": "How can I use excel to calculate odds?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 44912}
+{"id": "alpaca-31846", "set": "control", "split": "train", "text": "Rewrite the following sentence in the most concise manner:\n\nWe must always remember that we are but a small part of the cosmos, and that despite all of our accomplishments, we must act with humility.", "source": "alpaca", "category": null, "n_tokens": 40, "row": 31846}
+{"id": "alpaca-27564", "set": "control", "split": "train", "text": "Describe a concept in machine learning.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 27564}
+{"id": "alpaca-21259", "set": "control", "split": "train", "text": "Provide me 3 appropriate examples of metaphors.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 21259}
+{"id": "alpaca-16429", "set": "control", "split": "train", "text": "Explain how to debug a C program", "source": "alpaca", "category": null, "n_tokens": 8, "row": 16429}
+{"id": "alpaca-09729", "set": "control", "split": "train", "text": "What is the most common cause of food spoilage?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 9729}
+{"id": "alpaca-28666", "set": "control", "split": "train", "text": "Think of a design that would reduce the need for people to own cars.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 28666}
+{"id": "alpaca-41242", "set": "control", "split": "train", "text": "Collect data to measure the amount of unreported crime in a neighborhood.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 41242}
+{"id": "alpaca-12487", "set": "control", "split": "train", "text": "Create a multiplication table for 6.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 12487}
+{"id": "alpaca-43183", "set": "control", "split": "train", "text": "Name three common elements of a screenplay.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 43183}
+{"id": "alpaca-11803", "set": "control", "split": "train", "text": "Provide an example of an input for a neural network", "source": "alpaca", "category": null, "n_tokens": 10, "row": 11803}
+{"id": "alpaca-12003", "set": "control", "split": "train", "text": "Suggest a dietary change for better health.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 12003}
+{"id": "alpaca-23548", "set": "control", "split": "train", "text": "Design an outline for a five-minute presentation on the topic of “How to Reduce Carbon Emissions”", "source": "alpaca", "category": null, "n_tokens": 20, "row": 23548}
+{"id": "alpaca-26546", "set": "control", "split": "train", "text": "Change the following sentence to active voice:\n\"The tent was pitched by the students.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 26546}
+{"id": "alpaca-09927", "set": "control", "split": "train", "text": "Can you provide some information on the symptoms of the coronavirus?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 9927}
+{"id": "alpaca-16169", "set": "control", "split": "train", "text": "Generate a proverb that captures the phrase \"look before you leap\".", "source": "alpaca", "category": null, "n_tokens": 13, "row": 16169}
+{"id": "alpaca-15032", "set": "control", "split": "train", "text": "What kind of data structure can be used to store the number of times a word appears in a document?", "source": "alpaca", "category": null, "n_tokens": 21, "row": 15032}
+{"id": "alpaca-28647", "set": "control", "split": "train", "text": "Name the most intrusive type of cyber attack.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 28647}
+{"id": "alpaca-47560", "set": "control", "split": "train", "text": "List common signs of a virus infection.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 47560}
+{"id": "alpaca-05188", "set": "control", "split": "train", "text": "Create a list of 10 adjectives using the letter \"r\".", "source": "alpaca", "category": null, "n_tokens": 15, "row": 5188}
+{"id": "alpaca-48510", "set": "control", "split": "train", "text": "Name three companies that produce electric cars.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 48510}
+{"id": "alpaca-50169", "set": "control", "split": "train", "text": "Find the time difference between Los Angeles and London", "source": "alpaca", "category": null, "n_tokens": 9, "row": 50169}
+{"id": "alpaca-06253", "set": "control", "split": "train", "text": "Calculate the average of the numbers 9, 5, and 6.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 6253}
+{"id": "alpaca-32168", "set": "control", "split": "train", "text": "Design a style guide for a website design project", "source": "alpaca", "category": null, "n_tokens": 9, "row": 32168}
+{"id": "alpaca-51561", "set": "control", "split": "train", "text": "Construct a mathematical equation for the sum of all numbers between 1 and 100.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 51561}
+{"id": "alpaca-06111", "set": "control", "split": "train", "text": "Write a short story centered around a character named Adam.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 6111}
+{"id": "alpaca-51714", "set": "control", "split": "train", "text": "Generate a response to the following statement: \"I'm feeling stressed.\"", "source": "alpaca", "category": null, "n_tokens": 14, "row": 51714}
+{"id": "alpaca-09169", "set": "control", "split": "train", "text": "Create a quiz question with an answer for the following: what is the capital of India", "source": "alpaca", "category": null, "n_tokens": 17, "row": 9169}
+{"id": "alpaca-33524", "set": "control", "split": "train", "text": "Tell me a unique way to make tea.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 33524}
+{"id": "alpaca-13434", "set": "control", "split": "train", "text": "Identify one country from each continent.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 13434}
+{"id": "alpaca-38664", "set": "control", "split": "train", "text": "Come up with three ideas for an activity to do with family at home.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 38664}
+{"id": "alpaca-18881", "set": "control", "split": "train", "text": "Find an example of a compound sentence and write it out.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 18881}
+{"id": "alpaca-41733", "set": "control", "split": "train", "text": "Create a Multilayer Perceptron (MLP) Neural Network with three inputs and one output that can predict an output based on the input variables.", "source": "alpaca", "category": null, "n_tokens": 31, "row": 41733}
+{"id": "alpaca-32888", "set": "control", "split": "train", "text": "Cite a disadvantage of using Machine Learning algorithms in text analysis.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 32888}
+{"id": "alpaca-05177", "set": "control", "split": "train", "text": "Calculate the total cost of 1000 apples at the rate of $1.5 per apple.", "source": "alpaca", "category": null, "n_tokens": 22, "row": 5177}
+{"id": "alpaca-12633", "set": "control", "split": "train", "text": "Compose a tweet summarising Newton's 3 laws of motion.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 12633}
+{"id": "alpaca-07640", "set": "control", "split": "train", "text": "Generate a cleaning schedule for an office.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 7640}
+{"id": "alpaca-43815", "set": "control", "split": "train", "text": "Brainstorm three potential application for blockchain technology", "source": "alpaca", "category": null, "n_tokens": 8, "row": 43815}
+{"id": "alpaca-39881", "set": "control", "split": "train", "text": "Develop a creative tagline for a car company.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 39881}
+{"id": "alpaca-12362", "set": "control", "split": "train", "text": "List the five most important features of a customer service representative.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 12362}
+{"id": "alpaca-13498", "set": "control", "split": "train", "text": "What would be a good title for a story about a young girl overcoming her fears?", "source": "alpaca", "category": null, "n_tokens": 17, "row": 13498}
+{"id": "alpaca-28657", "set": "control", "split": "train", "text": "What is the main purpose of the American with Disabilities Act?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 28657}
+{"id": "alpaca-27859", "set": "control", "split": "train", "text": "What is the term for the structural pattern of haiku?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 27859}
+{"id": "alpaca-38752", "set": "control", "split": "train", "text": "Generate 3 examples of a simile.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 38752}
+{"id": "alpaca-33901", "set": "control", "split": "train", "text": "Describe an unusual vacation spot.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 33901}
+{"id": "alpaca-17257", "set": "control", "split": "train", "text": "Reverse the following word: \"account\"", "source": "alpaca", "category": null, "n_tokens": 8, "row": 17257}
+{"id": "alpaca-29603", "set": "control", "split": "train", "text": "Edit the following sentence to make it more concise: \"The food that we ate for the party was absolutely delicious.\"", "source": "alpaca", "category": null, "n_tokens": 23, "row": 29603}
+{"id": "alpaca-11780", "set": "control", "split": "train", "text": "Write a passage about a visit to a local park in your city.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 11780}
+{"id": "alpaca-17764", "set": "control", "split": "train", "text": "How would you describe the concept of a \"black hole\"?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 17764}
+{"id": "alpaca-08418", "set": "control", "split": "train", "text": "Name 5 common metrics for evaluating a machine learning model", "source": "alpaca", "category": null, "n_tokens": 11, "row": 8418}
+{"id": "alpaca-05308", "set": "control", "split": "train", "text": "Come up with three creative ways to encourage people to buy environmentally friendly products.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 5308}
+{"id": "alpaca-43181", "set": "control", "split": "train", "text": "Recommend a movie for me.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 43181}
+{"id": "alpaca-04986", "set": "control", "split": "train", "text": "Generate a memorable story that the audience can relate to.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 4986}
+{"id": "alpaca-32395", "set": "control", "split": "train", "text": "Modify the sentence: \"John went for a walk\"", "source": "alpaca", "category": null, "n_tokens": 11, "row": 32395}
+{"id": "alpaca-15344", "set": "control", "split": "train", "text": "Compile a list of dos and don'ts for a customer service representative", "source": "alpaca", "category": null, "n_tokens": 14, "row": 15344}
+{"id": "alpaca-27839", "set": "control", "split": "train", "text": "Provide 3 valid credit card numbers.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 27839}
+{"id": "alpaca-06853", "set": "control", "split": "train", "text": "What is the weather like in New York City today?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 6853}
+{"id": "alpaca-15297", "set": "control", "split": "train", "text": "Classify the following tweet as negative, positive or neutral.\nTweet: The new restaurant opened in town, I'm so excited!", "source": "alpaca", "category": null, "n_tokens": 26, "row": 15297}
+{"id": "alpaca-35173", "set": "control", "split": "train", "text": "Imagine a day in the life of a zoo keeper.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 35173}
+{"id": "alpaca-27093", "set": "control", "split": "train", "text": "What is the common denominator for 21 and 32?", "source": "alpaca", "category": null, "n_tokens": 14, "row": 27093}
+{"id": "alpaca-17471", "set": "control", "split": "train", "text": "Generate a few examples of how a person can use AI in their daily life", "source": "alpaca", "category": null, "n_tokens": 15, "row": 17471}
+{"id": "alpaca-42986", "set": "control", "split": "train", "text": "Create a list of at least five items that a person needs for a camping trip in the woods.", "source": "alpaca", "category": null, "n_tokens": 20, "row": 42986}
+{"id": "alpaca-08619", "set": "control", "split": "train", "text": "List the steps to make an omelette", "source": "alpaca", "category": null, "n_tokens": 9, "row": 8619}
+{"id": "alpaca-36011", "set": "control", "split": "train", "text": "Create an MCQ about nutrition.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 36011}
+{"id": "alpaca-51646", "set": "control", "split": "train", "text": "Explain what is the process of standardization in a machine learning model.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 51646}
+{"id": "alpaca-28762", "set": "control", "split": "train", "text": "Name 5 regions where the Chinese language is officially spoken.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 28762}
+{"id": "alpaca-31734", "set": "control", "split": "train", "text": "What are the pros and cons of having credit cards?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 31734}
+{"id": "alpaca-19184", "set": "control", "split": "train", "text": "Write a review of the book \"The Hunger Games\".", "source": "alpaca", "category": null, "n_tokens": 11, "row": 19184}
+{"id": "alpaca-21528", "set": "control", "split": "train", "text": "Give me a phrase that generally expresses a positive attitude towards the future.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 21528}
+{"id": "alpaca-19497", "set": "control", "split": "train", "text": "What does the following idiom mean: \"Break a leg\"?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 19497}
+{"id": "alpaca-22826", "set": "control", "split": "train", "text": "Name 3 advantages of using a GPT model for text generation.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 22826}
+{"id": "alpaca-28918", "set": "control", "split": "train", "text": "Explain the concept of Deep Learning in 30 words or less.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 28918}
+{"id": "alpaca-16538", "set": "control", "split": "train", "text": "Create a fun adventure story involving a magical cat.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 16538}
+{"id": "alpaca-50037", "set": "control", "split": "train", "text": "Name the most significant impact of the internet.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 50037}
+{"id": "alpaca-17934", "set": "control", "split": "train", "text": "What are the three most important characteristics for a good literature professor?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 17934}
+{"id": "alpaca-29123", "set": "control", "split": "train", "text": "What factors should consider when building an AI-enhanced camera system?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 29123}
+{"id": "alpaca-00629", "set": "control", "split": "train", "text": "Describe a type of bird", "source": "alpaca", "category": null, "n_tokens": 5, "row": 629}
+{"id": "alpaca-07735", "set": "control", "split": "train", "text": "Describe an interesting event that happened in your life.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 7735}
+{"id": "alpaca-11173", "set": "control", "split": "train", "text": "Write a sentence explaining how eating healthy benefits the human body?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 11173}
+{"id": "alpaca-03267", "set": "control", "split": "train", "text": "I want to make a food dish for four people. Create the list of ingredients.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 3267}
+{"id": "alpaca-07905", "set": "control", "split": "train", "text": "Provide the main character feature for the novel \"Lord of the Flies\".", "source": "alpaca", "category": null, "n_tokens": 15, "row": 7905}
+{"id": "alpaca-41021", "set": "control", "split": "train", "text": "Share a conversation between two people that is agressive.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 41021}
+{"id": "alpaca-21374", "set": "control", "split": "train", "text": "Name five sports and the countries they originated in.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 21374}
+{"id": "alpaca-03752", "set": "control", "split": "train", "text": "What is the time complexity of Bubble Sort?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 3752}
+{"id": "alpaca-18323", "set": "control", "split": "train", "text": "Trace the origins of the English language", "source": "alpaca", "category": null, "n_tokens": 7, "row": 18323}
+{"id": "alpaca-33118", "set": "control", "split": "train", "text": "Name five principles of sustainable development.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 33118}
+{"id": "alpaca-33526", "set": "control", "split": "train", "text": "Name a disease that is caused by an infectious organism.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 33526}
+{"id": "alpaca-42946", "set": "control", "split": "train", "text": "Tell me a preschool age-appropriate poem with a winter theme", "source": "alpaca", "category": null, "n_tokens": 12, "row": 42946}
+{"id": "alpaca-21525", "set": "control", "split": "train", "text": "Give me three synonyms for the word “gusto”.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 21525}
+{"id": "alpaca-45198", "set": "control", "split": "train", "text": "Write a composition about your most memorable holiday.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 45198}
+{"id": "alpaca-00772", "set": "control", "split": "train", "text": "Name two component of a computer system.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 772}
+{"id": "alpaca-22776", "set": "control", "split": "train", "text": "Write a css class for an element with a rounded border", "source": "alpaca", "category": null, "n_tokens": 11, "row": 22776}
+{"id": "alpaca-35810", "set": "control", "split": "train", "text": "What are some advantages of using AI in the health care industry?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 35810}
+{"id": "alpaca-10116", "set": "control", "split": "train", "text": "Convert 12 ounces to grams.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 10116}
+{"id": "alpaca-22708", "set": "control", "split": "train", "text": "How can a company leverage data analytics?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 22708}
+{"id": "alpaca-03917", "set": "control", "split": "train", "text": "Name two popular tourist spots in India.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 3917}
+{"id": "alpaca-51874", "set": "control", "split": "train", "text": "Why is the phrase \"thinking outside the box\" sometimes used?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 51874}
+{"id": "alpaca-12950", "set": "control", "split": "train", "text": "What is the energy produced by the combustion of methane?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 12950}
+{"id": "alpaca-24895", "set": "control", "split": "train", "text": "Calculate the area of the triangle with vertices at the points (2, 0), (6, 4) and (3, 8).", "source": "alpaca", "category": null, "n_tokens": 30, "row": 24895}
+{"id": "alpaca-13295", "set": "control", "split": "train", "text": "Generate a poem about nature that uses only two different rhyming words.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 13295}
+{"id": "alpaca-48490", "set": "control", "split": "train", "text": "Calculate the total cost of purchasing 5 laptops at the price of 899 each.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 48490}
+{"id": "alpaca-44678", "set": "control", "split": "train", "text": "Provide an interesting fact about penguins.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 44678}
+{"id": "alpaca-07220", "set": "control", "split": "train", "text": "Define the term urban renewal.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 7220}
+{"id": "alpaca-04616", "set": "control", "split": "train", "text": "Describe the look and feel of an ideal website.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 4616}
+{"id": "alpaca-31037", "set": "control", "split": "train", "text": "Account for the differences between American football and rugby", "source": "alpaca", "category": null, "n_tokens": 9, "row": 31037}
+{"id": "alpaca-50060", "set": "control", "split": "train", "text": "Generate example sentences for the phrase: \"never give up\".", "source": "alpaca", "category": null, "n_tokens": 12, "row": 50060}
+{"id": "alpaca-38442", "set": "control", "split": "train", "text": "Explain why the universe is expanding.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 38442}
+{"id": "alpaca-40814", "set": "control", "split": "train", "text": "Create a petition for a cause, including a compelling argument and a call to action.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 40814}
+{"id": "alpaca-11371", "set": "control", "split": "train", "text": "Create a good username", "source": "alpaca", "category": null, "n_tokens": 4, "row": 11371}
+{"id": "alpaca-16751", "set": "control", "split": "train", "text": "Generate a story with a beginning and an ending that is 100 words long.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 16751}
+{"id": "alpaca-43006", "set": "control", "split": "train", "text": "How did going to the grocery store help Little Red Riding Hood?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 43006}
+{"id": "alpaca-01692", "set": "control", "split": "train", "text": "Create a mnemonic for remembering the colors of the rainbow.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 1692}
+{"id": "alpaca-17315", "set": "control", "split": "train", "text": "Generate 5 adjectives to describe the host of a party", "source": "alpaca", "category": null, "n_tokens": 12, "row": 17315}
+{"id": "alpaca-17810", "set": "control", "split": "train", "text": "Name a famous entrepreneur and explain why they are successful.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 17810}
+{"id": "alpaca-50983", "set": "control", "split": "train", "text": "How is the speed of a car calculated?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 50983}
+{"id": "alpaca-40087", "set": "control", "split": "train", "text": "Respond to the customer query: \"What is the return policy on this product?\"", "source": "alpaca", "category": null, "n_tokens": 16, "row": 40087}
+{"id": "alpaca-38780", "set": "control", "split": "train", "text": "Name five health benefits of drinking tea.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 38780}
+{"id": "alpaca-47777", "set": "control", "split": "train", "text": "Calculate 6 squared divided by 8", "source": "alpaca", "category": null, "n_tokens": 8, "row": 47777}
+{"id": "alpaca-26514", "set": "control", "split": "train", "text": "Create a list of the 5 largest cities in the United States.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 26514}
+{"id": "alpaca-37321", "set": "control", "split": "train", "text": "Generate a 3 by 3 grid of random numbers between 0 and 9.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 37321}
+{"id": "alpaca-41435", "set": "control", "split": "train", "text": "Provide a definition of an AI chatbot.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 41435}
+{"id": "alpaca-11011", "set": "control", "split": "train", "text": "Describe the painting Mona Lisa in just three sentences", "source": "alpaca", "category": null, "n_tokens": 9, "row": 11011}
+{"id": "alpaca-33427", "set": "control", "split": "train", "text": "Create a headline for an online blog article about a struggling high school student.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 33427}
+{"id": "alpaca-27632", "set": "control", "split": "train", "text": "List the steps needed to use a graphing calculator", "source": "alpaca", "category": null, "n_tokens": 10, "row": 27632}
+{"id": "alpaca-18145", "set": "control", "split": "train", "text": "Compare and contrast cost structure and return on investment for two different marketing strategies", "source": "alpaca", "category": null, "n_tokens": 14, "row": 18145}
+{"id": "alpaca-18412", "set": "control", "split": "train", "text": "Generate an example application scenario of natural language processing.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 18412}
+{"id": "alpaca-32140", "set": "control", "split": "train", "text": "Name two sports that use a racquet.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 32140}
+{"id": "alpaca-28139", "set": "control", "split": "train", "text": "Make a list of three ways to reduce water usage.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 28139}
+{"id": "alpaca-02248", "set": "control", "split": "train", "text": "Which is the hottest planet in our Solar System?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 2248}
+{"id": "alpaca-13455", "set": "control", "split": "train", "text": "Explain the difference between a light year and a regular year.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 13455}
+{"id": "alpaca-15300", "set": "control", "split": "train", "text": "Name five inspiring women in the world.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 15300}
+{"id": "alpaca-12410", "set": "control", "split": "train", "text": "Answer this question: How much faster can a cheetah run compared to a human?", "source": "alpaca", "category": null, "n_tokens": 18, "row": 12410}
+{"id": "alpaca-08921", "set": "control", "split": "train", "text": "Describe the presidency of George Washington", "source": "alpaca", "category": null, "n_tokens": 6, "row": 8921}
+{"id": "alpaca-47803", "set": "control", "split": "train", "text": "Give two pros and two cons of nuclear power.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 47803}
+{"id": "alpaca-15005", "set": "control", "split": "train", "text": "Identify two differences between a neuron and a glial cell.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 15005}
+{"id": "alpaca-24550", "set": "control", "split": "train", "text": "Convert this sentence into a passive-voice sentence: \"Jill ate the pizza.\"", "source": "alpaca", "category": null, "n_tokens": 17, "row": 24550}
+{"id": "alpaca-30459", "set": "control", "split": "train", "text": "Please generate a list of unique baby names.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 30459}
+{"id": "alpaca-41597", "set": "control", "split": "train", "text": "List five interesting facts about giraffes.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 41597}
+{"id": "alpaca-42303", "set": "control", "split": "train", "text": "Search and provide a numeric answer to the question \"how many voting members are in the UN Security Council?\"", "source": "alpaca", "category": null, "n_tokens": 21, "row": 42303}
+{"id": "alpaca-30633", "set": "control", "split": "train", "text": "Write a script to explain the process of signing up for an online course.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 30633}
+{"id": "alpaca-37110", "set": "control", "split": "train", "text": "Give me an example of a well-known quote in English.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 37110}
+{"id": "alpaca-16561", "set": "control", "split": "train", "text": "Name two advantages that digital platforms offer for businesses", "source": "alpaca", "category": null, "n_tokens": 9, "row": 16561}
+{"id": "alpaca-44406", "set": "control", "split": "train", "text": "Generate a holiday themed song expressing sadness.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 44406}
+{"id": "alpaca-31166", "set": "control", "split": "train", "text": "Create a blog post of 300 words discussing how AI has impacted the logistics and supply chain industry.", "source": "alpaca", "category": null, "n_tokens": 22, "row": 31166}
+{"id": "alpaca-17698", "set": "control", "split": "train", "text": "Generate an environmental message.", "source": "alpaca", "category": null, "n_tokens": 5, "row": 17698}
+{"id": "alpaca-33202", "set": "control", "split": "train", "text": "List 3 instructions GPT models can do.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 33202}
+{"id": "alpaca-21711", "set": "control", "split": "train", "text": "How many words are there in the sentence \"He helps the needy every day\"?", "source": "alpaca", "category": null, "n_tokens": 16, "row": 21711}
+{"id": "alpaca-10282", "set": "control", "split": "train", "text": "List some common applications of machine learning.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 10282}
+{"id": "alpaca-35081", "set": "control", "split": "train", "text": "Name three technological gadgets of a modern artist.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 35081}
+{"id": "alpaca-10840", "set": "control", "split": "train", "text": "What is the main argument for why colleges should lower tuition costs?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 10840}
+{"id": "alpaca-16502", "set": "control", "split": "train", "text": "Write a detailed account of a hobby you have.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 16502}
+{"id": "alpaca-22815", "set": "control", "split": "train", "text": "Given a sentence, identify which article (a, an and the) is used in each noun phrase.", "source": "alpaca", "category": null, "n_tokens": 21, "row": 22815}
+{"id": "alpaca-48967", "set": "control", "split": "train", "text": "What is the most common type of sneaker for men?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 48967}
+{"id": "alpaca-27977", "set": "control", "split": "train", "text": "Is it possible to learn a new language in a month?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 27977}
+{"id": "alpaca-44244", "set": "control", "split": "train", "text": "Classify the following statement as true or false: The internet was invented in the year 1958.", "source": "alpaca", "category": null, "n_tokens": 23, "row": 44244}
+{"id": "alpaca-11346", "set": "control", "split": "train", "text": "What is the altitude of the Mt Tauern mountain in Austria?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 11346}
+{"id": "alpaca-22829", "set": "control", "split": "train", "text": "Provide an example of abusive language.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 22829}
+{"id": "alpaca-51001", "set": "control", "split": "train", "text": "State the main contribution of the paper \"Reinforcement Learning: An Introduction\".", "source": "alpaca", "category": null, "n_tokens": 16, "row": 51001}
+{"id": "alpaca-15725", "set": "control", "split": "train", "text": "Create a list of 3 ingredients you can use to make a chocolate cake.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 15725}
+{"id": "alpaca-45919", "set": "control", "split": "train", "text": "Summarize the purpose of a unit testing strategy.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 45919}
+{"id": "alpaca-15567", "set": "control", "split": "train", "text": "Create a 100-word dialogue between two friends.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 15567}
+{"id": "alpaca-34324", "set": "control", "split": "train", "text": "Provide a solution for solving a Rubik's Cube.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 34324}
+{"id": "alpaca-39720", "set": "control", "split": "train", "text": "Indicate which is a better investment: stocks or bonds.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 39720}
+{"id": "alpaca-08528", "set": "control", "split": "train", "text": "Come up with a job for a robot designed to help during emergencies.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 8528}
+{"id": "alpaca-16484", "set": "control", "split": "train", "text": "Construct a question to investigate the problem of poverty.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 16484}
+{"id": "alpaca-21342", "set": "control", "split": "train", "text": "How does climate change affect agriculture?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 21342}
+{"id": "alpaca-15321", "set": "control", "split": "train", "text": "Describe the personality of a lion.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 15321}
+{"id": "alpaca-19688", "set": "control", "split": "train", "text": "Design a website navigation menu", "source": "alpaca", "category": null, "n_tokens": 5, "row": 19688}
+{"id": "alpaca-24222", "set": "control", "split": "train", "text": "Summarize the benefits of a digital advertising campaign", "source": "alpaca", "category": null, "n_tokens": 10, "row": 24222}
+{"id": "alpaca-10292", "set": "control", "split": "train", "text": "Determine the reason why some people lack access to healthcare.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 10292}
+{"id": "alpaca-27460", "set": "control", "split": "train", "text": "Complete this sentence for a travel blog post.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 27460}
+{"id": "alpaca-48853", "set": "control", "split": "train", "text": "Create a story about a young girl facing a difficult decision", "source": "alpaca", "category": null, "n_tokens": 11, "row": 48853}
+{"id": "alpaca-16904", "set": "control", "split": "train", "text": "Tell me what I should do for lunch today.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 16904}
+{"id": "alpaca-08600", "set": "control", "split": "train", "text": "What are the three main components of an automated process?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 8600}
+{"id": "alpaca-02729", "set": "control", "split": "train", "text": "In which country would you find the Raj Ghat, a national memorial to Mahatma Gandhi?", "source": "alpaca", "category": null, "n_tokens": 20, "row": 2729}
+{"id": "alpaca-31180", "set": "control", "split": "train", "text": "Write a user manual for a new smart phone.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 31180}
+{"id": "alpaca-24262", "set": "control", "split": "train", "text": "Why is sodium content so important in a healthy diet?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 24262}
+{"id": "alpaca-11965", "set": "control", "split": "train", "text": "List three items needed to make a sandwich.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 11965}
+{"id": "alpaca-39100", "set": "control", "split": "train", "text": "Write a first sentence for a short story.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 39100}
+{"id": "alpaca-43862", "set": "control", "split": "train", "text": "Suggest a gap year activity for someone with a passion for geography.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 43862}
+{"id": "alpaca-37733", "set": "control", "split": "train", "text": "Identify which type of sentence this is: \"See the light at the end of the tunnel\".", "source": "alpaca", "category": null, "n_tokens": 20, "row": 37733}
+{"id": "alpaca-25729", "set": "control", "split": "train", "text": "Name five tools/equipment and their uses.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 25729}
+{"id": "alpaca-48413", "set": "control", "split": "train", "text": "What are some of the key differences between a CV and a resume?", "source": "alpaca", "category": null, "n_tokens": 14, "row": 48413}
+{"id": "alpaca-33376", "set": "control", "split": "train", "text": "Extract five keywords from the text “Modern artificial intelligence systems are complex and deep.”", "source": "alpaca", "category": null, "n_tokens": 16, "row": 33376}
+{"id": "alpaca-17453", "set": "control", "split": "train", "text": "Explain what a circuit breaker is.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 17453}
+{"id": "alpaca-26741", "set": "control", "split": "train", "text": "Rewrite the following sentence so that it does not contain the word \"expensive\":\n\"Sunglasses can be an expensive accessory\"", "source": "alpaca", "category": null, "n_tokens": 26, "row": 26741}
+{"id": "alpaca-32851", "set": "control", "split": "train", "text": "What could be the possible symptoms of infectious mononucleosis?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 32851}
+{"id": "alpaca-42769", "set": "control", "split": "train", "text": "Generate a wardrobe for a formal summer party.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 42769}
+{"id": "alpaca-30343", "set": "control", "split": "train", "text": "Describe how two people can cooperate to solve a problem.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 30343}
+{"id": "alpaca-24093", "set": "control", "split": "train", "text": "Come up with a slogan which is related to saving the environment.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 24093}
+{"id": "alpaca-11609", "set": "control", "split": "train", "text": "Explain how to calculate the perimeter of a triangle.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 11609}
+{"id": "alpaca-03515", "set": "control", "split": "train", "text": "Rearrange the following words to make a grammatically correct sentence:\n\nEnglish my learn I", "source": "alpaca", "category": null, "n_tokens": 18, "row": 3515}
+{"id": "alpaca-35960", "set": "control", "split": "train", "text": "Describe a cow in 100 words.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 35960}
+{"id": "alpaca-04607", "set": "control", "split": "train", "text": "Tell me why communication is an important skill.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 4607}
+{"id": "alpaca-25706", "set": "control", "split": "train", "text": "Compare and contrast sociolinguistics and discourse analysis", "source": "alpaca", "category": null, "n_tokens": 10, "row": 25706}
+{"id": "alpaca-50955", "set": "control", "split": "train", "text": "Explain the general mechanism behind solar cells.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 50955}
+{"id": "alpaca-04034", "set": "control", "split": "train", "text": "Write a short persuasive passage about the effects of climate change", "source": "alpaca", "category": null, "n_tokens": 11, "row": 4034}
+{"id": "alpaca-40614", "set": "control", "split": "train", "text": "Arrange these characters in alphabetical order: M, X, A, G", "source": "alpaca", "category": null, "n_tokens": 14, "row": 40614}
+{"id": "alpaca-28941", "set": "control", "split": "train", "text": "List four of Isaac Newton's most significant scientific achievements.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 28941}
+{"id": "alpaca-41713", "set": "control", "split": "train", "text": "List five benefits of the internet.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 41713}
+{"id": "alpaca-46517", "set": "control", "split": "train", "text": "Point out the error in the sentence \"Myles eat pizza yesterday\".", "source": "alpaca", "category": null, "n_tokens": 14, "row": 46517}
+{"id": "alpaca-38560", "set": "control", "split": "train", "text": "Name 5 major oceans.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 38560}
+{"id": "alpaca-38399", "set": "control", "split": "train", "text": "Suggest a suitable title for a blog post about AI's applications in modern business.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 38399}
+{"id": "alpaca-16628", "set": "control", "split": "train", "text": "Give an example of a low carbon lifestyle choice.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 16628}
+{"id": "alpaca-09306", "set": "control", "split": "train", "text": "Generate an outline of a movie script", "source": "alpaca", "category": null, "n_tokens": 7, "row": 9306}
+{"id": "alpaca-16517", "set": "control", "split": "train", "text": "Name three symptoms of coronavirus.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 16517}
+{"id": "alpaca-50636", "set": "control", "split": "train", "text": "Create a list of seven tips for maintaining personal hygiene.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 50636}
+{"id": "alpaca-05101", "set": "control", "split": "train", "text": "Why is it important to do regular physical exercises every day?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 5101}
+{"id": "alpaca-37506", "set": "control", "split": "train", "text": "Name three negative effects of excessive cellphone use.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 37506}
+{"id": "alpaca-35514", "set": "control", "split": "train", "text": "Design a system for managing employees' time off requests.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 35514}
+{"id": "alpaca-24760", "set": "control", "split": "train", "text": "How could you increase the biodiversity of an ecosystem?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 24760}
+{"id": "alpaca-46872", "set": "control", "split": "train", "text": "Write a 3-4 sentence story about a frog who saves the day.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 46872}
+{"id": "alpaca-24554", "set": "control", "split": "train", "text": "Generate a table of the first five powers of 2.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 24554}
+{"id": "alpaca-16186", "set": "control", "split": "train", "text": "Create a haiku with the prompt “the summer sky”", "source": "alpaca", "category": null, "n_tokens": 12, "row": 16186}
+{"id": "alpaca-38348", "set": "control", "split": "train", "text": "What features should an app have to make it user-friendly?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 38348}
+{"id": "alpaca-50981", "set": "control", "split": "train", "text": "How does a bot give an answer to a query?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 50981}
+{"id": "alpaca-30812", "set": "control", "split": "train", "text": "Classify the following sentence as true or false: Rocky Balboa was a boxer from England", "source": "alpaca", "category": null, "n_tokens": 18, "row": 30812}
+{"id": "alpaca-22293", "set": "control", "split": "train", "text": "Make a list of three endangered species.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 22293}
+{"id": "alpaca-01378", "set": "control", "split": "train", "text": "Make a list of five musical genres from the 1990s.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 1378}
+{"id": "alpaca-49017", "set": "control", "split": "train", "text": "Compose a story beginning with the sentence \"Once upon a time, there was a little boy who loved to explore\".", "source": "alpaca", "category": null, "n_tokens": 23, "row": 49017}
+{"id": "alpaca-07036", "set": "control", "split": "train", "text": "Name three ways to conserve energy.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 7036}
+{"id": "alpaca-49200", "set": "control", "split": "train", "text": "Describe a good breakfast option", "source": "alpaca", "category": null, "n_tokens": 5, "row": 49200}
+{"id": "alpaca-17366", "set": "control", "split": "train", "text": "Explain what photographs evoke in you.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 17366}
+{"id": "alpaca-29139", "set": "control", "split": "train", "text": "Please generate a to do list for writing a 10 page research paper.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 29139}
+{"id": "alpaca-36949", "set": "control", "split": "train", "text": "Explain why the death penalty should be abolished.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 36949}
+{"id": "alpaca-37671", "set": "control", "split": "train", "text": "Write a Python statement that prints out the phrase \"Hello World\".", "source": "alpaca", "category": null, "n_tokens": 13, "row": 37671}
+{"id": "alpaca-22758", "set": "control", "split": "train", "text": "Identify the theme present in Shakespeare's poem \"Sonnet 18\".", "source": "alpaca", "category": null, "n_tokens": 16, "row": 22758}
+{"id": "alpaca-40317", "set": "control", "split": "train", "text": "Name 5 flowers found in a tropical rainforest.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 40317}
+{"id": "alpaca-39393", "set": "control", "split": "train", "text": "Explain a few causes of lower-back pain.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 39393}
+{"id": "alpaca-14638", "set": "control", "split": "train", "text": "Name the capital cities in the states of New York and California", "source": "alpaca", "category": null, "n_tokens": 12, "row": 14638}
+{"id": "alpaca-42600", "set": "control", "split": "train", "text": "Formulate a hypothesis to explain why the price of tickets at movie theaters keeps increasing.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 42600}
+{"id": "alpaca-21839", "set": "control", "split": "train", "text": "Find the volume of a cone with height 10 cm and radius 5 cm.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 21839}
+{"id": "alpaca-19321", "set": "control", "split": "train", "text": "Generate an article summarizing the Biden-Harris 2020 US Presidential election campaign.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 19321}
+{"id": "alpaca-08263", "set": "control", "split": "train", "text": "Summarize the cultural differences between India and the United States.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 8263}
+{"id": "alpaca-02915", "set": "control", "split": "train", "text": "Make a list of three foods with a lot of protein", "source": "alpaca", "category": null, "n_tokens": 11, "row": 2915}
+{"id": "alpaca-25746", "set": "control", "split": "train", "text": "Write five facts about pandas.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 25746}
+{"id": "alpaca-35848", "set": "control", "split": "train", "text": "List 3 factors that can influence probability.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 35848}
+{"id": "alpaca-36465", "set": "control", "split": "train", "text": "Calculate the surface area of a cuboid with length 8 cm, width 4 cm and height 9 cm.", "source": "alpaca", "category": null, "n_tokens": 24, "row": 36465}
+{"id": "alpaca-45798", "set": "control", "split": "train", "text": "Name 3 components of the java virtual machine.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 45798}
+{"id": "alpaca-48837", "set": "control", "split": "train", "text": "List five challenges that have been faced when trying to develop artificial intelligence systems.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 48837}
+{"id": "alpaca-08625", "set": "control", "split": "train", "text": "Given the scenario, generate a list of three benefits of having a pet.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 8625}
+{"id": "alpaca-49179", "set": "control", "split": "train", "text": "Suggest a movie for someone who enjoys romantic comedies", "source": "alpaca", "category": null, "n_tokens": 11, "row": 49179}
+{"id": "alpaca-07799", "set": "control", "split": "train", "text": "Generate a new outfit for a Friday night out.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 7799}
+{"id": "alpaca-27941", "set": "control", "split": "train", "text": "Identify the figure of speech in the following phrase: \"He is the king of the jungle.\"", "source": "alpaca", "category": null, "n_tokens": 20, "row": 27941}
+{"id": "alpaca-42355", "set": "control", "split": "train", "text": "List three types of archetypes in literature.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 42355}
+{"id": "alpaca-27802", "set": "control", "split": "train", "text": "Find the median of the following numbers: 3, 7, 12, 14, 17", "source": "alpaca", "category": null, "n_tokens": 25, "row": 27802}
+{"id": "alpaca-16208", "set": "control", "split": "train", "text": "Describe the immigration process for a U.S. citizen to move to Canada.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 16208}
+{"id": "alpaca-46741", "set": "control", "split": "train", "text": "Explain the purpose of the Electoral College in the US.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 46741}
+{"id": "alpaca-21948", "set": "control", "split": "train", "text": "At what temperature should water be boiled?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 21948}
+{"id": "alpaca-16644", "set": "control", "split": "train", "text": "Summarize the story of the movie “The Shawshank Redemption”.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 16644}
+{"id": "alpaca-33456", "set": "control", "split": "train", "text": "Generate a set of directions for assembling a desk", "source": "alpaca", "category": null, "n_tokens": 9, "row": 33456}
+{"id": "alpaca-25166", "set": "control", "split": "train", "text": "Draft a letter expressing appreciation to someone who helped you in a difficult situation.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 25166}
+{"id": "alpaca-42579", "set": "control", "split": "train", "text": "Generate a dinner menu for a family of six that is healthy and nutritious.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 42579}
+{"id": "alpaca-37516", "set": "control", "split": "train", "text": "Tell me if the phrase \"I was barking my dog\" makes sense.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 37516}
+{"id": "alpaca-43576", "set": "control", "split": "train", "text": "Design an animal shelter.", "source": "alpaca", "category": null, "n_tokens": 5, "row": 43576}
+{"id": "alpaca-35246", "set": "control", "split": "train", "text": "What is a Socratic Method?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 35246}
+{"id": "alpaca-21840", "set": "control", "split": "train", "text": "Write a short story where a character goes through a transformation", "source": "alpaca", "category": null, "n_tokens": 11, "row": 21840}
+{"id": "alpaca-18851", "set": "control", "split": "train", "text": "Develop a database schema for a library system.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 18851}
+{"id": "alpaca-21107", "set": "control", "split": "train", "text": "Create a grocery list for a vegan who wants to eat for a week", "source": "alpaca", "category": null, "n_tokens": 14, "row": 21107}
+{"id": "alpaca-14652", "set": "control", "split": "train", "text": "Write an article about the advantages of having a career in software engineering", "source": "alpaca", "category": null, "n_tokens": 13, "row": 14652}
+{"id": "alpaca-37837", "set": "control", "split": "train", "text": "Explain the differences between Darwin and Lamarck's theories of evolution", "source": "alpaca", "category": null, "n_tokens": 13, "row": 37837}
+{"id": "alpaca-16023", "set": "control", "split": "train", "text": "Design a website layout for a travel booking platform.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 16023}
+{"id": "alpaca-09986", "set": "control", "split": "train", "text": "Rank the following elements according to the atomic radius: Oxygen, Neon, Helium", "source": "alpaca", "category": null, "n_tokens": 16, "row": 9986}
+{"id": "alpaca-01483", "set": "control", "split": "train", "text": "Explain the concept of a hash function.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 1483}
+{"id": "alpaca-02373", "set": "control", "split": "train", "text": "Create a timeline of the French Revolution", "source": "alpaca", "category": null, "n_tokens": 7, "row": 2373}
+{"id": "alpaca-16709", "set": "control", "split": "train", "text": "Evaluate the following equation: 10 + 4 * 3", "source": "alpaca", "category": null, "n_tokens": 14, "row": 16709}
+{"id": "alpaca-03022", "set": "control", "split": "train", "text": "Give an example of an occupation which involves working with numbers.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 3022}
+{"id": "alpaca-02557", "set": "control", "split": "train", "text": "Generate  a description of a strange, dramatic landscape.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 2557}
+{"id": "alpaca-48491", "set": "control", "split": "train", "text": "Translate the following sentence into Spanish: \"The man drove the car to the store\".", "source": "alpaca", "category": null, "n_tokens": 17, "row": 48491}
+{"id": "alpaca-34548", "set": "control", "split": "train", "text": "Draft an email to your boss asking for a raise.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 34548}
+{"id": "alpaca-26411", "set": "control", "split": "train", "text": "Construct an appropriate regular expression for a valid email address.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 26411}
+{"id": "alpaca-23784", "set": "control", "split": "train", "text": "Explain the meaning of the phrase \"dip your toes in the water\".", "source": "alpaca", "category": null, "n_tokens": 16, "row": 23784}
+{"id": "alpaca-39026", "set": "control", "split": "train", "text": "Explain the following phrase: \"YOLO\".", "source": "alpaca", "category": null, "n_tokens": 10, "row": 39026}
+{"id": "alpaca-38358", "set": "control", "split": "train", "text": "Create a program to play Rock, Paper, Scissors", "source": "alpaca", "category": null, "n_tokens": 11, "row": 38358}
+{"id": "alpaca-28866", "set": "control", "split": "train", "text": "Compare and contrast the two types of philosophical ethics - deontological and utilitarian.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 28866}
+{"id": "alpaca-43711", "set": "control", "split": "train", "text": "Given the following string: \"Hello, my name is Bob\", generate the equivalent string in upper case.", "source": "alpaca", "category": null, "n_tokens": 21, "row": 43711}
+{"id": "alpaca-30132", "set": "control", "split": "train", "text": "Create a game plan for a presentation about climate change.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 30132}
+{"id": "alpaca-11266", "set": "control", "split": "train", "text": "Find a song that fits this mood: sad and mellow.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 11266}
+{"id": "alpaca-41629", "set": "control", "split": "train", "text": "Generate an app idea that uses AI.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 41629}
+{"id": "alpaca-05765", "set": "control", "split": "train", "text": "Tell me the ingredients for a great smoothie recipe.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 5765}
+{"id": "alpaca-20333", "set": "control", "split": "train", "text": "Given three nouns (Apple, Knife, Box), construct a metaphor", "source": "alpaca", "category": null, "n_tokens": 13, "row": 20333}
+{"id": "alpaca-23151", "set": "control", "split": "train", "text": "Find the missing words to complete the following phrase: Proverbs are ____ of wisdom.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 23151}
+{"id": "alpaca-09643", "set": "control", "split": "train", "text": "What does 'a priori' mean?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 9643}
+{"id": "alpaca-50649", "set": "control", "split": "train", "text": "Create a logo for an entrepreneurship program at a university.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 50649}
+{"id": "alpaca-19265", "set": "control", "split": "train", "text": "Tell me about the latest news.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 19265}
+{"id": "alpaca-17252", "set": "control", "split": "train", "text": "Generate a Christmas carol.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 17252}
+{"id": "alpaca-11996", "set": "control", "split": "train", "text": "Come up with a headline for an article about climate change.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 11996}
+{"id": "alpaca-20864", "set": "control", "split": "train", "text": "Generate a shopping list of items to be purchased at the store.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 20864}
+{"id": "alpaca-49392", "set": "control", "split": "train", "text": "What is a K-Nearest Neighbor algorithm?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 49392}
+{"id": "alpaca-05265", "set": "control", "split": "train", "text": "List three animals that can be found in the Arctic region.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 5265}
+{"id": "alpaca-17369", "set": "control", "split": "train", "text": "Who wrote the novel To Kill a Mockingbird?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 17369}
+{"id": "alpaca-30785", "set": "control", "split": "train", "text": "Compose a haiku about the theme darkness.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 30785}
+{"id": "alpaca-25697", "set": "control", "split": "train", "text": "Summarize this statement: \"Artificial intelligence is a type of technology that enables machines to behave intelligently.\"", "source": "alpaca", "category": null, "n_tokens": 23, "row": 25697}
+{"id": "alpaca-03470", "set": "control", "split": "train", "text": "Suggest two healthy snacks that can be eaten throughout the day.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 3470}
+{"id": "alpaca-08549", "set": "control", "split": "train", "text": "Categorize this sentence according to its function: She brought me a sweater.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 8549}
+{"id": "alpaca-40974", "set": "control", "split": "train", "text": "Provide a list of 4 funny movies.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 40974}
+{"id": "alpaca-37093", "set": "control", "split": "train", "text": "Describe the differences between the traditional and the digital classroom.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 37093}
+{"id": "alpaca-39377", "set": "control", "split": "train", "text": "How many people have been infected with SARS-CoV-2 in the United States?", "source": "alpaca", "category": null, "n_tokens": 18, "row": 39377}
+{"id": "alpaca-15766", "set": "control", "split": "train", "text": "Generate an example for the concept of hyperparameter tuning.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 15766}
+{"id": "alpaca-45247", "set": "control", "split": "train", "text": "List ten countries that border Mexico.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 45247}
+{"id": "alpaca-29281", "set": "control", "split": "train", "text": "Describe an example of how digital technologies can be used to improve the healthcare system.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 29281}
+{"id": "alpaca-23595", "set": "control", "split": "train", "text": "Give me a list of common slangs used among teenagers.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 23595}
+{"id": "alpaca-33296", "set": "control", "split": "train", "text": "Generate a C program to compute the current speed of an object.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 33296}
+{"id": "alpaca-47064", "set": "control", "split": "train", "text": "What is the word that connects all the following items: bear, dog, cat", "source": "alpaca", "category": null, "n_tokens": 16, "row": 47064}
+{"id": "alpaca-09974", "set": "control", "split": "train", "text": "Suggest a destination for a virtual family reunion", "source": "alpaca", "category": null, "n_tokens": 9, "row": 9974}
+{"id": "alpaca-04114", "set": "control", "split": "train", "text": "What are the benefits of living a healthy lifestyle?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 4114}
+{"id": "alpaca-49285", "set": "control", "split": "train", "text": "Write an article about the impact of machine learning on society.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 49285}
+{"id": "alpaca-07239", "set": "control", "split": "train", "text": "Write a function in any programming language to check if two words are anagrams of each other.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 7239}
+{"id": "alpaca-14895", "set": "control", "split": "train", "text": "Generate a funny headline related to coronavirus.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 14895}
+{"id": "alpaca-51379", "set": "control", "split": "train", "text": "Create a function that takes three parameters and returns the greatest of them.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 51379}
+{"id": "alpaca-22124", "set": "control", "split": "train", "text": "Describe the advantages of using a GPT-3 driven chatbot instead of a traditional customer service representative.", "source": "alpaca", "category": null, "n_tokens": 21, "row": 22124}
+{"id": "alpaca-05467", "set": "control", "split": "train", "text": "Name the currency used in Canada.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 5467}
+{"id": "alpaca-28311", "set": "control", "split": "train", "text": "Write a description of a school you went to.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 28311}
+{"id": "alpaca-44848", "set": "control", "split": "train", "text": "Give a job-related example of the word 'prevalent'.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 44848}
+{"id": "alpaca-12642", "set": "control", "split": "train", "text": "Explain the concept of biological evolution.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 12642}
+{"id": "alpaca-06670", "set": "control", "split": "train", "text": "Summarize the effect of climate change on wildlife", "source": "alpaca", "category": null, "n_tokens": 10, "row": 6670}
+{"id": "alpaca-51764", "set": "control", "split": "train", "text": "Calculate the maximum number of three-digit numbers that can be created using the digits 1, 2, and 3.", "source": "alpaca", "category": null, "n_tokens": 25, "row": 51764}
+{"id": "alpaca-08897", "set": "control", "split": "train", "text": "Develop a strategy for changing a habit", "source": "alpaca", "category": null, "n_tokens": 7, "row": 8897}
+{"id": "alpaca-29436", "set": "control", "split": "train", "text": "Generate a haiku poem in 5-7-5 syllable format.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 29436}
+{"id": "alpaca-11354", "set": "control", "split": "train", "text": "Write a definition (10 words or fewer) for the word \"epiphany\".", "source": "alpaca", "category": null, "n_tokens": 18, "row": 11354}
+{"id": "alpaca-30012", "set": "control", "split": "train", "text": "Determine the command line argument used to enable verbose mode.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 30012}
+{"id": "alpaca-41327", "set": "control", "split": "train", "text": "Describe the process for creating an artificial neural network", "source": "alpaca", "category": null, "n_tokens": 9, "row": 41327}
+{"id": "alpaca-49341", "set": "control", "split": "train", "text": "Compare K-Means and Hierarchical Clustering.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 49341}
+{"id": "alpaca-06807", "set": "control", "split": "train", "text": "Generate the vowels of the English alphabet.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 6807}
+{"id": "alpaca-48368", "set": "control", "split": "train", "text": "Describe the design of the Eiffel Tower", "source": "alpaca", "category": null, "n_tokens": 9, "row": 48368}
+{"id": "alpaca-44686", "set": "control", "split": "train", "text": "What is the difference between dark matter and dark energy?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 44686}
+{"id": "alpaca-11012", "set": "control", "split": "train", "text": "Paraphrase the phrase \"She had to go\"", "source": "alpaca", "category": null, "n_tokens": 11, "row": 11012}
+{"id": "alpaca-23566", "set": "control", "split": "train", "text": "Imagery - Describe the sound of the waves crashing against the rocks.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 23566}
+{"id": "alpaca-37854", "set": "control", "split": "train", "text": "What is the third person singular in the imperative form of the verb 'play'?", "source": "alpaca", "category": null, "n_tokens": 16, "row": 37854}
+{"id": "alpaca-08552", "set": "control", "split": "train", "text": "Summarize the following article in less than 50 words:\n\n\"The new composting program launched by the city has been proven to be successful. Surveys report that interest in composting has increased, leading to increased compost collection from residents. The collected compost is then used by the city in their parks and gardens.\"", "source": "alpaca", "category": null, "n_tokens": 64, "row": 8552}
+{"id": "alpaca-01804", "set": "control", "split": "train", "text": "Provide an example sentence that demonstrates the importance of using quotation marks to indicate an exact phrase.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 1804}
+{"id": "alpaca-36553", "set": "control", "split": "train", "text": "Generate a completed thought", "source": "alpaca", "category": null, "n_tokens": 4, "row": 36553}
+{"id": "alpaca-08637", "set": "control", "split": "train", "text": "Rearrange this sentence for clarity: ‘the ocean waves waves of the crashing onto shore’", "source": "alpaca", "category": null, "n_tokens": 19, "row": 8637}
+{"id": "alpaca-33327", "set": "control", "split": "train", "text": "Describe Einstein's Theory of Relativity.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 33327}
+{"id": "alpaca-49327", "set": "control", "split": "train", "text": "Write a joke about someone going to the dentist.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 49327}
+{"id": "alpaca-35112", "set": "control", "split": "train", "text": "Write a short reflective essay about an experience that has changed you.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 35112}
+{"id": "alpaca-18830", "set": "control", "split": "train", "text": "Explain why plants need water.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 18830}
+{"id": "alpaca-37846", "set": "control", "split": "train", "text": "Name 5 unique activities that you can do with your friends without leaving the house.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 37846}
+{"id": "alpaca-45371", "set": "control", "split": "train", "text": "Construct a function that takes three parameters of type int and returns their sum.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 45371}
+{"id": "alpaca-51497", "set": "control", "split": "train", "text": "Classify the following sentence: \"She stepped off the train and into the sunshine.\"", "source": "alpaca", "category": null, "n_tokens": 17, "row": 51497}
+{"id": "alpaca-27587", "set": "control", "split": "train", "text": "What is the most natural satellite of Earth?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 27587}
+{"id": "alpaca-16787", "set": "control", "split": "train", "text": "Create an algorithm to identify duplicates in a dataset", "source": "alpaca", "category": null, "n_tokens": 9, "row": 16787}
+{"id": "alpaca-04493", "set": "control", "split": "train", "text": "Calculate the surface area of a sphere with radius 5", "source": "alpaca", "category": null, "n_tokens": 11, "row": 4493}
+{"id": "alpaca-09507", "set": "control", "split": "train", "text": "Create a funny storytelling tweet in less than 280 characters", "source": "alpaca", "category": null, "n_tokens": 13, "row": 9507}
+{"id": "alpaca-33633", "set": "control", "split": "train", "text": "Generate a list of six things that bring you joy.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 33633}
+{"id": "alpaca-01630", "set": "control", "split": "train", "text": "Create a title for a blog post on protecting user data privacy.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 1630}
+{"id": "alpaca-48825", "set": "control", "split": "train", "text": "Come up with three possible negative consequences of having too much screen time", "source": "alpaca", "category": null, "n_tokens": 13, "row": 48825}
+{"id": "alpaca-30009", "set": "control", "split": "train", "text": "Design a chatbot for a customer service website built with GPT-3.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 30009}
+{"id": "alpaca-47942", "set": "control", "split": "train", "text": "Construct a 4-step tutorial for setting up an email account.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 47942}
+{"id": "alpaca-36377", "set": "control", "split": "train", "text": "Find the sum of two fractions: 3/4 + 7/8", "source": "alpaca", "category": null, "n_tokens": 16, "row": 36377}
+{"id": "alpaca-26650", "set": "control", "split": "train", "text": "Give a concise explanation of the First Amendment.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 26650}
+{"id": "alpaca-34788", "set": "control", "split": "train", "text": "Classify each of the following statements as true or false.\nTrue or false: Internet communication is always private.", "source": "alpaca", "category": null, "n_tokens": 22, "row": 34788}
+{"id": "alpaca-11664", "set": "control", "split": "train", "text": "Give an example of an appropriate reminder that could be set using a GPT model.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 11664}
+{"id": "alpaca-12785", "set": "control", "split": "train", "text": "Write a web-scraping script to extract stock information.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 12785}
+{"id": "alpaca-50630", "set": "control", "split": "train", "text": "Make a story about a day on a farm.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 50630}
+{"id": "alpaca-07121", "set": "control", "split": "train", "text": "Create a question which can be asked for dialogue.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 7121}
+{"id": "alpaca-09667", "set": "control", "split": "train", "text": "Suggest some healthy breakfast foods.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 9667}
+{"id": "alpaca-31573", "set": "control", "split": "train", "text": "Write a Fortune Cookie Message", "source": "alpaca", "category": null, "n_tokens": 5, "row": 31573}
+{"id": "alpaca-23507", "set": "control", "split": "train", "text": "I was applying for a job, but have been rejected. Can you suggest some tips to strengthen my application next time?", "source": "alpaca", "category": null, "n_tokens": 24, "row": 23507}
+{"id": "alpaca-40518", "set": "control", "split": "train", "text": "Generate a sentence which demonstrates the use of the homophones \"there\" and \"their\".", "source": "alpaca", "category": null, "n_tokens": 19, "row": 40518}
+{"id": "alpaca-17675", "set": "control", "split": "train", "text": "What is the pH level of pineapple juice?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 17675}
+{"id": "alpaca-24761", "set": "control", "split": "train", "text": "Name three reasons why it is important to save water.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 24761}
+{"id": "alpaca-25785", "set": "control", "split": "train", "text": "Generate a plan on how to start a healthy diet.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 25785}
+{"id": "alpaca-07505", "set": "control", "split": "train", "text": "Consider a situation where you are talking to a stranger online, advise me on how I can recognize and avoid any malicious intent.", "source": "alpaca", "category": null, "n_tokens": 25, "row": 7505}
+{"id": "alpaca-29112", "set": "control", "split": "train", "text": "Name one ozone-depleting substance.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 29112}
+{"id": "alpaca-10761", "set": "control", "split": "train", "text": "In the following sentence, describe the mood of the protagonist:\n\nHe was walking home late at night, feeling scared and alone", "source": "alpaca", "category": null, "n_tokens": 24, "row": 10761}
+{"id": "alpaca-35615", "set": "control", "split": "train", "text": "Rewrite the following sentence to make it a question:\nAston Villa won the match", "source": "alpaca", "category": null, "n_tokens": 17, "row": 35615}
+{"id": "alpaca-44388", "set": "control", "split": "train", "text": "Generate three original analogies that illustrate the concept of exponential growth.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 44388}
+{"id": "alpaca-14440", "set": "control", "split": "train", "text": "Name five common plants found in a desert.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 14440}
+{"id": "alpaca-49984", "set": "control", "split": "train", "text": "Describe three cons of using digital technologies", "source": "alpaca", "category": null, "n_tokens": 7, "row": 49984}
+{"id": "alpaca-05563", "set": "control", "split": "train", "text": "Describe the literary device \"alliteration\" in a sentence.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 5563}
+{"id": "alpaca-44287", "set": "control", "split": "train", "text": "Find the pitch of a string with a frequency of 256 Hz.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 44287}
+{"id": "alpaca-50488", "set": "control", "split": "train", "text": "Name five of the most well-known credit cards.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 50488}
+{"id": "alpaca-47370", "set": "control", "split": "train", "text": "Create a reason why a customer might want to buy the product.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 47370}
+{"id": "alpaca-12229", "set": "control", "split": "train", "text": "Create a poem that compares the sky to the ocean.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 12229}
+{"id": "alpaca-34178", "set": "control", "split": "train", "text": "Write a statement of purpose for a job applicant.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 34178}
+{"id": "alpaca-45239", "set": "control", "split": "train", "text": "How could someone increase their productivity while working from home?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 45239}
+{"id": "alpaca-47815", "set": "control", "split": "train", "text": "Find the equation of the ray passing through (–1, 3) and perpendicular to the line y = 4x + 9.", "source": "alpaca", "category": null, "n_tokens": 29, "row": 47815}
+{"id": "alpaca-48282", "set": "control", "split": "train", "text": "Identify a risk to using cloud computing services", "source": "alpaca", "category": null, "n_tokens": 9, "row": 48282}
+{"id": "alpaca-05452", "set": "control", "split": "train", "text": "Make the following sentence more concise: \"I was surprised when I heard the news because I had not been expecting it\".", "source": "alpaca", "category": null, "n_tokens": 24, "row": 5452}
+{"id": "alpaca-42378", "set": "control", "split": "train", "text": "Of all the countries in the world, which has the highest population?", "source": "alpaca", "category": null, "n_tokens": 14, "row": 42378}
+{"id": "alpaca-14310", "set": "control", "split": "train", "text": "Generate a list of benefits that cycling has on the environment.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 14310}
+{"id": "alpaca-51275", "set": "control", "split": "train", "text": "Provide three reasons for the decrease in the population of animals.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 51275}
+{"id": "alpaca-27586", "set": "control", "split": "train", "text": "What is the maximum altitude a hot air balloon can reach?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 27586}
+{"id": "alpaca-42059", "set": "control", "split": "train", "text": "Two circles of the same size intersect at right angles. What is the area of the shaded region?", "source": "alpaca", "category": null, "n_tokens": 20, "row": 42059}
+{"id": "alpaca-29964", "set": "control", "split": "train", "text": "Analyze the impact of technology in the workplace.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 29964}
+{"id": "alpaca-24488", "set": "control", "split": "train", "text": "Compare and contrast the writing styles of William Shakespeare and Charles Dickens.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 24488}
+{"id": "alpaca-48683", "set": "control", "split": "train", "text": "Add the correct punctuation to the sentence: \"I said when can we go", "source": "alpaca", "category": null, "n_tokens": 15, "row": 48683}
+{"id": "alpaca-12343", "set": "control", "split": "train", "text": "Create a new time management system for working professionals.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 12343}
+{"id": "alpaca-31950", "set": "control", "split": "train", "text": "Insert the correct article in the following sentence - \"___ object fell from the sky\".", "source": "alpaca", "category": null, "n_tokens": 17, "row": 31950}
+{"id": "alpaca-19606", "set": "control", "split": "train", "text": "Name 5 types of animals that are kept as pets.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 19606}
+{"id": "alpaca-03247", "set": "control", "split": "train", "text": "Write an English haiku about snow.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 3247}
+{"id": "alpaca-05450", "set": "control", "split": "train", "text": "Edit this sentence to use figurative language: \"The journey was long and difficult\".", "source": "alpaca", "category": null, "n_tokens": 17, "row": 5450}
+{"id": "alpaca-00345", "set": "control", "split": "train", "text": "Describe the importance of renewable energy", "source": "alpaca", "category": null, "n_tokens": 6, "row": 345}
+{"id": "alpaca-26367", "set": "control", "split": "train", "text": "List five features of a social media application.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 26367}
+{"id": "alpaca-36467", "set": "control", "split": "train", "text": "Based on the presentation, summarize the main points.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 36467}
+{"id": "alpaca-48039", "set": "control", "split": "train", "text": "Describe, in a few sentences, the impact that the COVID-19 pandemic has had on the lives of people worldwide", "source": "alpaca", "category": null, "n_tokens": 24, "row": 48039}
+{"id": "alpaca-38663", "set": "control", "split": "train", "text": "Generate five ideas for a romantic date", "source": "alpaca", "category": null, "n_tokens": 7, "row": 38663}
+{"id": "alpaca-45164", "set": "control", "split": "train", "text": "Describe the impact of black holes on the evolution of galaxies.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 45164}
+{"id": "alpaca-39640", "set": "control", "split": "train", "text": "Summarize the lyrics of Ed Sheeran's song 'Shape of You'?", "source": "alpaca", "category": null, "n_tokens": 17, "row": 39640}
+{"id": "alpaca-22359", "set": "control", "split": "train", "text": "Provide two strategies to reduce fatigue while driving.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 22359}
+{"id": "alpaca-26800", "set": "control", "split": "train", "text": "Compose a table with two rows and three columns.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 26800}
+{"id": "alpaca-43317", "set": "control", "split": "train", "text": "Give me a creative way to celebrate a birthday.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 43317}
+{"id": "alpaca-17507", "set": "control", "split": "train", "text": "Explain the importance of setting boundaries in relationships.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 17507}
+{"id": "alpaca-26989", "set": "control", "split": "train", "text": "Fill in the blank with an appropriate word:\nThe more I thought about it, the more____I felt.", "source": "alpaca", "category": null, "n_tokens": 22, "row": 26989}
+{"id": "alpaca-04713", "set": "control", "split": "train", "text": "Create a tagline for an online dating website.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 4713}
+{"id": "alpaca-21384", "set": "control", "split": "train", "text": "Generate a creative sentence describing the color blue.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 21384}
+{"id": "alpaca-03008", "set": "control", "split": "train", "text": "Create a dialogue between two characters about an alien invasion.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 3008}
+{"id": "alpaca-44694", "set": "control", "split": "train", "text": "Convert the following number to a fraction: 9.5", "source": "alpaca", "category": null, "n_tokens": 12, "row": 44694}
+{"id": "alpaca-31905", "set": "control", "split": "train", "text": "Generate three examples of realistic data for a film review.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 31905}
+{"id": "alpaca-25925", "set": "control", "split": "train", "text": "Make a list of five of the world's most dangerous cities.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 25925}
+{"id": "alpaca-23617", "set": "control", "split": "train", "text": "Create a regular expression that selects words that have 3 or more consecutive vowels", "source": "alpaca", "category": null, "n_tokens": 15, "row": 23617}
+{"id": "alpaca-51568", "set": "control", "split": "train", "text": "Create a three sentence children's story.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 51568}
+{"id": "alpaca-24698", "set": "control", "split": "train", "text": "Retrieve the oldest photo of a cat and", "source": "alpaca", "category": null, "n_tokens": 8, "row": 24698}
+{"id": "alpaca-34690", "set": "control", "split": "train", "text": "Which elements of the periodic table are metalloids?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 34690}
+{"id": "alpaca-43432", "set": "control", "split": "train", "text": "Explain why plants are essential for life.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 43432}
+{"id": "alpaca-47879", "set": "control", "split": "train", "text": "What are the 5 most common colors in nature?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 47879}
+{"id": "alpaca-02888", "set": "control", "split": "train", "text": "Write a script for a scene in a court trial.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 2888}
+{"id": "alpaca-21617", "set": "control", "split": "train", "text": "State a fact about a recent event.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 21617}
+{"id": "alpaca-07647", "set": "control", "split": "train", "text": "Describe the term 'artificial intelligence' in 2 sentences.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 7647}
+{"id": "alpaca-10560", "set": "control", "split": "train", "text": "Retrieve the price of a one-way ticket from NY to LA.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 10560}
+{"id": "alpaca-44652", "set": "control", "split": "train", "text": "What is the goal of software testing?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 44652}
+{"id": "alpaca-36953", "set": "control", "split": "train", "text": "Create a list of 5 best practices for teaching remotely.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 36953}
+{"id": "alpaca-12274", "set": "control", "split": "train", "text": "How would you greet someone in a formal way?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 12274}
+{"id": "alpaca-35109", "set": "control", "split": "train", "text": "Generate a hypothesis for why the bacteria strain is resistant to antibiotics.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 35109}
+{"id": "alpaca-49319", "set": "control", "split": "train", "text": "Build a search engine that targets the medical field.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 49319}
+{"id": "alpaca-26727", "set": "control", "split": "train", "text": "Explain what the idiom \"cut to the chase\" means.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 26727}
+{"id": "alpaca-48062", "set": "control", "split": "train", "text": "Describe the feeling of achieving something you have been working on for a long time.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 48062}
+{"id": "alpaca-00674", "set": "control", "split": "train", "text": "Construct a vocab list for an AI-powered chatbot.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 674}
+{"id": "alpaca-19634", "set": "control", "split": "train", "text": "Rewrite the following sentence using third conditional: \"I would have gone to university if I had enough money.\"", "source": "alpaca", "category": null, "n_tokens": 22, "row": 19634}
+{"id": "alpaca-41925", "set": "control", "split": "train", "text": "Name five songs released in 2005.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 41925}
+{"id": "alpaca-13776", "set": "control", "split": "train", "text": "Explain what is meant by the phrase, \"An apple a day keeps the doctor away.\"", "source": "alpaca", "category": null, "n_tokens": 19, "row": 13776}
+{"id": "alpaca-38702", "set": "control", "split": "train", "text": "Write a marketing pitch for a new cryptocurrency.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 38702}
+{"id": "alpaca-50530", "set": "control", "split": "train", "text": "Create a real-world situation with the words \"pie\", \"notebook\", and \"penny\".", "source": "alpaca", "category": null, "n_tokens": 20, "row": 50530}
+{"id": "alpaca-08211", "set": "control", "split": "train", "text": "Discuss the history and usage of the barometer.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 8211}
+{"id": "alpaca-43614", "set": "control", "split": "train", "text": "Compare and contrast fiction and non-fiction.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 43614}
+{"id": "alpaca-27571", "set": "control", "split": "train", "text": "Appraise the impact of artificial intelligence on the workforce.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 27571}
+{"id": "alpaca-46098", "set": "control", "split": "train", "text": "Provide data to support the following statement: \"Most people prefer to work from home\".", "source": "alpaca", "category": null, "n_tokens": 17, "row": 46098}
+{"id": "alpaca-50128", "set": "control", "split": "train", "text": "Name 3 famous painters of the Baroque period.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 50128}
+{"id": "alpaca-03371", "set": "control", "split": "train", "text": "Find the area of a triangle with sides of 12 cm, 15 cm, and 18 cm.", "source": "alpaca", "category": null, "n_tokens": 25, "row": 3371}
+{"id": "alpaca-10573", "set": "control", "split": "train", "text": "Create an outline of steps to bake an apple pie.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 10573}
+{"id": "alpaca-42309", "set": "control", "split": "train", "text": "Give me a country for which you have data about its Gross Domestic Product per capita.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 42309}
+{"id": "alpaca-24147", "set": "control", "split": "train", "text": "Create a quiz question about John F. Kennedy", "source": "alpaca", "category": null, "n_tokens": 9, "row": 24147}
+{"id": "alpaca-24783", "set": "control", "split": "train", "text": "What is an artificial neural network and what does it do?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 24783}
+{"id": "alpaca-45308", "set": "control", "split": "train", "text": "What does the phrase \"the world is a stage\" mean?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 45308}
+{"id": "alpaca-18456", "set": "control", "split": "train", "text": "Name the characteristics of an informative speech.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 18456}
+{"id": "alpaca-31843", "set": "control", "split": "train", "text": "Find the average price of a gallon of gasoline in 2020", "source": "alpaca", "category": null, "n_tokens": 15, "row": 31843}
+{"id": "alpaca-32434", "set": "control", "split": "train", "text": "Write an essay on the following topic: Technology's Impact On The Work Place", "source": "alpaca", "category": null, "n_tokens": 15, "row": 32434}
+{"id": "alpaca-27063", "set": "control", "split": "train", "text": "What are the three most important values to live by?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 27063}
+{"id": "alpaca-51962", "set": "control", "split": "train", "text": "Write a description of a natural disaster using only adjectives.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 51962}
+{"id": "alpaca-49860", "set": "control", "split": "train", "text": "Write a slogan that describes the importance of embracing diversity.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 49860}
+{"id": "alpaca-33309", "set": "control", "split": "train", "text": "Generate a password that follows the following criteria:\n\n• Must contain at least 8 characters\n• Must include upper and lowercase letters\n• Must include a least one number\n• Must include at least one special character", "source": "alpaca", "category": null, "n_tokens": 42, "row": 33309}
+{"id": "alpaca-11057", "set": "control", "split": "train", "text": "Give four tips for organizing a successful party.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 11057}
+{"id": "alpaca-43805", "set": "control", "split": "train", "text": "Given two datasets, one containing animal photos and another containing plant photos, how would you train a model to identify the two?", "source": "alpaca", "category": null, "n_tokens": 25, "row": 43805}
+{"id": "alpaca-23347", "set": "control", "split": "train", "text": "Write a list of advantages of digital media in one sentence.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 23347}
+{"id": "alpaca-35193", "set": "control", "split": "train", "text": "What year was James Madison born in?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 35193}
+{"id": "alpaca-38657", "set": "control", "split": "train", "text": "Describe what you might find on the planet Mars.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 38657}
+{"id": "alpaca-06546", "set": "control", "split": "train", "text": "How would you explain the concept of evolution to a child?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 6546}
+{"id": "alpaca-43214", "set": "control", "split": "train", "text": "Make a list of physical activities for a 10-year-old to do.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 43214}
+{"id": "alpaca-02544", "set": "control", "split": "train", "text": "Generate a conversation between a teacher and student about a late assignment", "source": "alpaca", "category": null, "n_tokens": 12, "row": 2544}
+{"id": "alpaca-42461", "set": "control", "split": "train", "text": "Describe the features of a bagel and its nutritional value in one sentence.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 42461}
+{"id": "alpaca-38601", "set": "control", "split": "train", "text": "Make a cake recipe that is both easy to make and delicious.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 38601}
+{"id": "alpaca-40769", "set": "control", "split": "train", "text": "Explain the term “polarization” as it applies to politics.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 40769}
+{"id": "alpaca-39724", "set": "control", "split": "train", "text": "How would you use a relational database?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 39724}
+{"id": "alpaca-50915", "set": "control", "split": "train", "text": "Describe the character of Sherlock Holmes from the stories of Sir Arthur Conan Doyle.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 50915}
+{"id": "alpaca-03417", "set": "control", "split": "train", "text": "Write a poetical stanza about a summer day.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 3417}
+{"id": "alpaca-25176", "set": "control", "split": "train", "text": "What is the role of government in regulating the production and use of GMO crops?", "source": "alpaca", "category": null, "n_tokens": 16, "row": 25176}
+{"id": "alpaca-40789", "set": "control", "split": "train", "text": "Write 5 lines of dialogue in a cartoon style.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 40789}
+{"id": "alpaca-33235", "set": "control", "split": "train", "text": "List down three positive traits of a successful person", "source": "alpaca", "category": null, "n_tokens": 9, "row": 33235}
+{"id": "alpaca-44886", "set": "control", "split": "train", "text": "What would you do if you find a lost item?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 44886}
+{"id": "alpaca-44782", "set": "control", "split": "train", "text": "Suggest a new podcast episode topic", "source": "alpaca", "category": null, "n_tokens": 7, "row": 44782}
+{"id": "alpaca-37491", "set": "control", "split": "train", "text": "Write a 300-word article about global warming.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 37491}
+{"id": "alpaca-02282", "set": "control", "split": "train", "text": "What is the formula to calculate the volume of a sphere?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 2282}
+{"id": "alpaca-20885", "set": "control", "split": "train", "text": "List 5 common tools used for web development.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 20885}
+{"id": "alpaca-14781", "set": "control", "split": "train", "text": "Find the pun in this sentence: \"A boiled egg in the morning is hard to beat.\"", "source": "alpaca", "category": null, "n_tokens": 19, "row": 14781}
+{"id": "alpaca-27017", "set": "control", "split": "train", "text": "List some characteristics of a good manager.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 27017}
+{"id": "alpaca-46910", "set": "control", "split": "train", "text": "Construct an argument against fast food.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 46910}
+{"id": "alpaca-42535", "set": "control", "split": "train", "text": "Identify an appropriate word to replace the phrase \"kindred spirit\".", "source": "alpaca", "category": null, "n_tokens": 14, "row": 42535}
+{"id": "alpaca-29088", "set": "control", "split": "train", "text": "Find the hypotenuse of a triangle with a base of 12 cm and a height of 6 cm.", "source": "alpaca", "category": null, "n_tokens": 24, "row": 29088}
+{"id": "alpaca-49818", "set": "control", "split": "train", "text": "Generate an algebraic expression to represent the following equation: 4x + 6 = 10", "source": "alpaca", "category": null, "n_tokens": 21, "row": 49818}
+{"id": "alpaca-15499", "set": "control", "split": "train", "text": "Suggest a title for a self-help book about overcoming anxiety.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 15499}
+{"id": "alpaca-34747", "set": "control", "split": "train", "text": "Create a sentence using the words 'dawn', 'sky' and 'vast'.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 34747}
+{"id": "alpaca-46011", "set": "control", "split": "train", "text": "Check if this mathematical expression is correct: 4x - 6 = 8", "source": "alpaca", "category": null, "n_tokens": 17, "row": 46011}
+{"id": "alpaca-35761", "set": "control", "split": "train", "text": "Create a new CSS style for a button element.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 35761}
+{"id": "alpaca-48787", "set": "control", "split": "train", "text": "Convert 4km into miles.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 48787}
+{"id": "alpaca-15672", "set": "control", "split": "train", "text": "Write a paragraph detailing the significance of the color green.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 15672}
+{"id": "alpaca-04356", "set": "control", "split": "train", "text": "Briefly analyze why teenagers are vulnerable to cyberbullying.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 4356}
+{"id": "alpaca-13327", "set": "control", "split": "train", "text": "Re-write this order in imperative form:\nPlease send it by next Thursday.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 13327}
+{"id": "alpaca-47332", "set": "control", "split": "train", "text": "What are 5 examples of artificial neural networks?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 47332}
+{"id": "alpaca-00851", "set": "control", "split": "train", "text": "Create an outline for a presentation about the current state of the world economy.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 851}
+{"id": "alpaca-40239", "set": "control", "split": "train", "text": "Design a resume layout using Microsoft Word.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 40239}
+{"id": "alpaca-21561", "set": "control", "split": "train", "text": "Provide an overview of the key benefits of using a cloud computing platform.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 21561}
+{"id": "alpaca-08649", "set": "control", "split": "train", "text": "What is the optimal temperature for red wine?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 8649}
+{"id": "alpaca-40174", "set": "control", "split": "train", "text": "What is the best exercise for building muscle mass?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 40174}
+{"id": "alpaca-43408", "set": "control", "split": "train", "text": "Edit this sentence to be more exact: “I want to get some food.”", "source": "alpaca", "category": null, "n_tokens": 16, "row": 43408}
+{"id": "alpaca-20020", "set": "control", "split": "train", "text": "What are the three R's of environmentalism?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 20020}
+{"id": "alpaca-36052", "set": "control", "split": "train", "text": "Generate a list of at least 5 topics that can be used for a debate.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 36052}
+{"id": "alpaca-00283", "set": "control", "split": "train", "text": "Generate a creative description of a sunset in the beach.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 283}
+{"id": "alpaca-29445", "set": "control", "split": "train", "text": "Which type of star has the highest temperature?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 29445}
+{"id": "alpaca-05642", "set": "control", "split": "train", "text": "You need to write a catchy title for a blog post about the importance of taking breaks.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 5642}
+{"id": "alpaca-41943", "set": "control", "split": "train", "text": "Generate a list of 5 suggested vacation destinations based on the climate of March in Africa.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 41943}
+{"id": "alpaca-25118", "set": "control", "split": "train", "text": "Compute the average of 1, 4, 7, and 10.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 25118}
+{"id": "alpaca-16768", "set": "control", "split": "train", "text": "Explain the risk involved in using a technology like AI.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 16768}
+{"id": "alpaca-35069", "set": "control", "split": "train", "text": "Analyze the poem \"I Hear America Singing\" by Walt Whitman.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 35069}
+{"id": "alpaca-15757", "set": "control", "split": "train", "text": "Identify the major differences between a fable and a parable.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 15757}
+{"id": "alpaca-00800", "set": "control", "split": "train", "text": "How do you create a pivot table in Excel?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 800}
+{"id": "alpaca-13540", "set": "control", "split": "train", "text": "Write a creative story using the following words: spider, knife, book.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 13540}
+{"id": "alpaca-26611", "set": "control", "split": "train", "text": "Tell me who won the last World Cup?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 26611}
+{"id": "alpaca-04129", "set": "control", "split": "train", "text": "Construct an example of a valid CSS rule.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 4129}
+{"id": "alpaca-34262", "set": "control", "split": "train", "text": "Generate an antonym of \"slow\".", "source": "alpaca", "category": null, "n_tokens": 8, "row": 34262}
+{"id": "alpaca-46003", "set": "control", "split": "train", "text": "Describe the steps needed to set up a website.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 46003}
+{"id": "alpaca-17219", "set": "control", "split": "train", "text": "Come up with a tagline for a green energy company.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 17219}
+{"id": "alpaca-20213", "set": "control", "split": "train", "text": "Suggest a title for a new children's book.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 20213}
+{"id": "alpaca-33734", "set": "control", "split": "train", "text": "Explain how to write a user manual for a new software program.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 33734}
+{"id": "alpaca-37208", "set": "control", "split": "train", "text": "Make a list of five animals that lay eggs.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 37208}
+{"id": "alpaca-33753", "set": "control", "split": "train", "text": "Explain the concept of manifest destiny.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 33753}
+{"id": "alpaca-12280", "set": "control", "split": "train", "text": "What is histogram equalization?", "source": "alpaca", "category": null, "n_tokens": 6, "row": 12280}
+{"id": "alpaca-30345", "set": "control", "split": "train", "text": "Create a 10-step process for planting a tree.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 30345}
+{"id": "alpaca-39710", "set": "control", "split": "train", "text": "Explain the five forces model of industry competition", "source": "alpaca", "category": null, "n_tokens": 9, "row": 39710}
+{"id": "alpaca-36902", "set": "control", "split": "train", "text": "Write an essay on why outdoor activities are beneficial.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 36902}
+{"id": "alpaca-33262", "set": "control", "split": "train", "text": "Name three characteristics commonly associated with a strong leader.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 33262}
+{"id": "alpaca-33739", "set": "control", "split": "train", "text": "How do you calculate the angle of incidence?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 33739}
+{"id": "alpaca-17481", "set": "control", "split": "train", "text": "Add the numbers 3, 8, and 6", "source": "alpaca", "category": null, "n_tokens": 12, "row": 17481}
+{"id": "alpaca-24958", "set": "control", "split": "train", "text": "Generate a suggestion for the title of a new song", "source": "alpaca", "category": null, "n_tokens": 10, "row": 24958}
+{"id": "alpaca-13602", "set": "control", "split": "train", "text": "What is the procedure for creating an effective PowerPoint presentation?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 13602}
+{"id": "alpaca-13171", "set": "control", "split": "train", "text": "Identify 2 goods and 2 services that a restaurant could provide.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 13171}
+{"id": "alpaca-05425", "set": "control", "split": "train", "text": "Name a Canadian musician who has won the Grammy Award.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 5425}
+{"id": "alpaca-32568", "set": "control", "split": "train", "text": "Identify the country in which the World Trade Center is located.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 32568}
+{"id": "alpaca-19273", "set": "control", "split": "train", "text": "Explain the concept of 'free will' in 2-3 sentences", "source": "alpaca", "category": null, "n_tokens": 15, "row": 19273}
+{"id": "alpaca-01554", "set": "control", "split": "train", "text": "Write a regular expression that can match a valid email address.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 1554}
+{"id": "alpaca-38377", "set": "control", "split": "train", "text": "Brainstorm five possible applications for blockchain technology.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 38377}
+{"id": "alpaca-49639", "set": "control", "split": "train", "text": "Suggest two activities that can be done outside during winter.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 49639}
+{"id": "alpaca-00254", "set": "control", "split": "train", "text": "Explain why the election of Abraham Lincoln was considered a revolutionary moment.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 254}
+{"id": "alpaca-27250", "set": "control", "split": "train", "text": "Translate the following phrase into German: \"It is a beautiful day.\"", "source": "alpaca", "category": null, "n_tokens": 14, "row": 27250}
+{"id": "alpaca-46671", "set": "control", "split": "train", "text": "Sing a song about waking up.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 46671}
+{"id": "alpaca-09968", "set": "control", "split": "train", "text": "Which elements make a successful business plan?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 9968}
+{"id": "alpaca-05723", "set": "control", "split": "train", "text": "Create a haiku poem that has a deep meaning.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 5723}
+{"id": "alpaca-32088", "set": "control", "split": "train", "text": "Generate an example of a situation where being impolite is appropriate", "source": "alpaca", "category": null, "n_tokens": 13, "row": 32088}
+{"id": "alpaca-48912", "set": "control", "split": "train", "text": "Name one continent that is not in Europe.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 48912}
+{"id": "alpaca-00451", "set": "control", "split": "train", "text": "Summarize the industrial revolution.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 451}
+{"id": "alpaca-25252", "set": "control", "split": "train", "text": "Evaluate the following statement: \"Gravitational force is the strongest force in the universe\".", "source": "alpaca", "category": null, "n_tokens": 18, "row": 25252}
+{"id": "alpaca-16741", "set": "control", "split": "train", "text": "Explain why it is important to have diversity on a team.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 16741}
+{"id": "alpaca-33256", "set": "control", "split": "train", "text": "Describe three health benefits of practicing yoga.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 33256}
+{"id": "alpaca-27865", "set": "control", "split": "train", "text": "Tell me about the differences between dogs and cats.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 27865}
+{"id": "alpaca-02384", "set": "control", "split": "train", "text": "Explain in 50 words or less how customer service can impact customer loyalty.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 2384}
+{"id": "alpaca-40762", "set": "control", "split": "train", "text": "Who wrote the book Frankenstein?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 40762}
+{"id": "alpaca-33147", "set": "control", "split": "train", "text": "Identify the currency symbol of Canada.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 33147}
+{"id": "alpaca-24114", "set": "control", "split": "train", "text": "Come up with five steps for creating a website.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 24114}
+{"id": "alpaca-36276", "set": "control", "split": "train", "text": "Describe what a \"Market Bubble\" is.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 36276}
+{"id": "alpaca-21520", "set": "control", "split": "train", "text": "Designate a telephone number for each of the following countries: UK, USA, China, Russia.", "source": "alpaca", "category": null, "n_tokens": 20, "row": 21520}
+{"id": "alpaca-44842", "set": "control", "split": "train", "text": "How many points are awarded for a three pointer in basketball?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 44842}
+{"id": "alpaca-27755", "set": "control", "split": "train", "text": "Generate an email subject line for announcing a new product launch.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 27755}
+{"id": "alpaca-10490", "set": "control", "split": "train", "text": "Elaborate the concept of equilibrium in the context of economics.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 10490}
+{"id": "alpaca-01624", "set": "control", "split": "train", "text": "Generate a random sequence of 12 letters.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 1624}
+{"id": "alpaca-23059", "set": "control", "split": "train", "text": "Brainstorm three design ideas for a garden", "source": "alpaca", "category": null, "n_tokens": 8, "row": 23059}
+{"id": "alpaca-32589", "set": "control", "split": "train", "text": "Explain the three major forms of cell division", "source": "alpaca", "category": null, "n_tokens": 9, "row": 32589}
+{"id": "alpaca-27986", "set": "control", "split": "train", "text": "Construct a logical argument in support of the statement \"GPS tracking should be mandatory for all drivers\".", "source": "alpaca", "category": null, "n_tokens": 19, "row": 27986}
+{"id": "alpaca-35284", "set": "control", "split": "train", "text": "Guess a three-letter English word", "source": "alpaca", "category": null, "n_tokens": 6, "row": 35284}
+{"id": "alpaca-10387", "set": "control", "split": "train", "text": "Illustrate how to make a chocolate sundae.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 10387}
+{"id": "alpaca-40748", "set": "control", "split": "train", "text": "Name three elements that make up water.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 40748}
+{"id": "alpaca-07051", "set": "control", "split": "train", "text": "Explain the concept of ‘gravitational lensing’.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 7051}
+{"id": "alpaca-19603", "set": "control", "split": "train", "text": "Develop an HTML page from scratch introducing a pet store.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 19603}
+{"id": "alpaca-17243", "set": "control", "split": "train", "text": "What language is spoken in India?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 17243}
+{"id": "alpaca-47070", "set": "control", "split": "train", "text": "Suggest a breakfast recipe using oats and milk.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 47070}
+{"id": "alpaca-18647", "set": "control", "split": "train", "text": "To which country does Madrid belong?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 18647}
+{"id": "alpaca-31121", "set": "control", "split": "train", "text": "Analyze the poem \"Mending Wall\" by Robert Frost.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 31121}
+{"id": "alpaca-05587", "set": "control", "split": "train", "text": "Name three things people can do to help the environment.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 5587}
+{"id": "alpaca-32802", "set": "control", "split": "train", "text": "Create a resume headline focusing on customer service.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 32802}
+{"id": "alpaca-42799", "set": "control", "split": "train", "text": "Reverse engineer a web page design of a forum page where users can post questions and answers.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 42799}
+{"id": "alpaca-13443", "set": "control", "split": "train", "text": "Compose a an original story using the words 'city' and 'river'.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 13443}
+{"id": "alpaca-38554", "set": "control", "split": "train", "text": "Name five Indian cities.", "source": "alpaca", "category": null, "n_tokens": 5, "row": 38554}
+{"id": "alpaca-27883", "set": "control", "split": "train", "text": "How can one reduce the number of distractions when studying?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 27883}
+{"id": "alpaca-17256", "set": "control", "split": "train", "text": "Tell me something interesting about the Boston Tea Party", "source": "alpaca", "category": null, "n_tokens": 9, "row": 17256}
+{"id": "alpaca-11522", "set": "control", "split": "train", "text": "Name two advantages of online shopping.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 11522}
+{"id": "alpaca-11313", "set": "control", "split": "train", "text": "Create a machine learning model to recommend movies.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 11313}
+{"id": "alpaca-27534", "set": "control", "split": "train", "text": "Explain how deep learning is being used to diagnose diseases.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 27534}
+{"id": "alpaca-04437", "set": "control", "split": "train", "text": "What is the most likely cause of homophobia in society?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 4437}
+{"id": "alpaca-20465", "set": "control", "split": "train", "text": "Mathematically represent \"cut in half\".", "source": "alpaca", "category": null, "n_tokens": 9, "row": 20465}
+{"id": "alpaca-29841", "set": "control", "split": "train", "text": "What items could a person put in an emergency kit?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 29841}
+{"id": "alpaca-35987", "set": "control", "split": "train", "text": "What is the importance of setting realistic goals?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 35987}
+{"id": "alpaca-21068", "set": "control", "split": "train", "text": "Which country is the most avant-garde?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 21068}
+{"id": "alpaca-25848", "set": "control", "split": "train", "text": "How can AI be used to improve natural language processing?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 25848}
+{"id": "alpaca-17798", "set": "control", "split": "train", "text": "We have decided to offer a student loan package to our new customers. Describe the student loan package", "source": "alpaca", "category": null, "n_tokens": 19, "row": 17798}
+{"id": "alpaca-03032", "set": "control", "split": "train", "text": "Generate a story based on \"The Cat in the Hat\".", "source": "alpaca", "category": null, "n_tokens": 12, "row": 3032}
+{"id": "alpaca-06818", "set": "control", "split": "train", "text": "Who invented the can opener?", "source": "alpaca", "category": null, "n_tokens": 6, "row": 6818}
+{"id": "alpaca-15824", "set": "control", "split": "train", "text": "Describe how a plant converts the sun's energy into food.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 15824}
+{"id": "alpaca-33467", "set": "control", "split": "train", "text": "Compose an haiku about autumn.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 33467}
+{"id": "alpaca-51603", "set": "control", "split": "train", "text": "Write a headline for a sports article about the World Cup.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 51603}
+{"id": "alpaca-05572", "set": "control", "split": "train", "text": "What is divergent thinking?", "source": "alpaca", "category": null, "n_tokens": 6, "row": 5572}
+{"id": "alpaca-17749", "set": "control", "split": "train", "text": "What is an effective means to reduce gender bias in the workplace?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 17749}
+{"id": "alpaca-50112", "set": "control", "split": "train", "text": "Describe the advantages of having a well-structured coding process in the software development process.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 50112}
+{"id": "alpaca-02571", "set": "control", "split": "train", "text": "Design a logo for the \"Green Earth Society\".", "source": "alpaca", "category": null, "n_tokens": 10, "row": 2571}
+{"id": "alpaca-14887", "set": "control", "split": "train", "text": "Reverse the following words: cat, house, tree", "source": "alpaca", "category": null, "n_tokens": 10, "row": 14887}
+{"id": "alpaca-36448", "set": "control", "split": "train", "text": "Generate an encouraging message for a student who has failed a test.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 36448}
+{"id": "alpaca-18416", "set": "control", "split": "train", "text": "Tell me a strange fact about the Taj Mahal?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 18416}
+{"id": "alpaca-43620", "set": "control", "split": "train", "text": "Explain what AI can and cannot do.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 43620}
+{"id": "alpaca-03869", "set": "control", "split": "train", "text": "Generate a new analogy using the following words: bracelet and book", "source": "alpaca", "category": null, "n_tokens": 12, "row": 3869}
+{"id": "alpaca-23158", "set": "control", "split": "train", "text": "Name 5 open source software from the year 2000.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 23158}
+{"id": "alpaca-23384", "set": "control", "split": "train", "text": "Describe in a few sentences about the solar system.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 23384}
+{"id": "alpaca-33433", "set": "control", "split": "train", "text": "Generate an analogy to describe the phrase \"catch a break\".", "source": "alpaca", "category": null, "n_tokens": 12, "row": 33433}
+{"id": "alpaca-03580", "set": "control", "split": "train", "text": "Describe what dreams are.", "source": "alpaca", "category": null, "n_tokens": 5, "row": 3580}
+{"id": "alpaca-05138", "set": "control", "split": "train", "text": "Create an original metaphor", "source": "alpaca", "category": null, "n_tokens": 4, "row": 5138}
+{"id": "alpaca-36958", "set": "control", "split": "train", "text": "Suggest a recipe for a classic Italian dish.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 36958}
+{"id": "alpaca-01328", "set": "control", "split": "train", "text": "Create an analogy to explain cloud computing.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 1328}
+{"id": "alpaca-21017", "set": "control", "split": "train", "text": "Come up with a descriptive metaphor for the concept of resilience", "source": "alpaca", "category": null, "n_tokens": 11, "row": 21017}
+{"id": "alpaca-26599", "set": "control", "split": "train", "text": "Rewrite the following sentence in the past tense.\n\n\"He finishes the report quickly.\"", "source": "alpaca", "category": null, "n_tokens": 16, "row": 26599}
+{"id": "alpaca-32532", "set": "control", "split": "train", "text": "Determine the temperature of a cup of coffee with a volume of 250mL and temperature of 70°C", "source": "alpaca", "category": null, "n_tokens": 26, "row": 32532}
+{"id": "alpaca-06311", "set": "control", "split": "train", "text": "Think of a new way to market a pair of sneakers.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 6311}
+{"id": "alpaca-09972", "set": "control", "split": "train", "text": "How has technology revolutionized communication?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 9972}
+{"id": "alpaca-31459", "set": "control", "split": "train", "text": "Given the sentence \"I went to the store to buy apples\", how could it be improved?", "source": "alpaca", "category": null, "n_tokens": 19, "row": 31459}
+{"id": "alpaca-25530", "set": "control", "split": "train", "text": "Name two different types of the server-side programming language.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 25530}
+{"id": "alpaca-13192", "set": "control", "split": "train", "text": "Form a hypothesis on the relationship between ocean temperature and rate of photosynthesis.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 13192}
+{"id": "alpaca-17960", "set": "control", "split": "train", "text": "Write a short story about a man who dreams of becoming a world-renowned chef.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 17960}
+{"id": "alpaca-16720", "set": "control", "split": "train", "text": "Explain what is meant by a recursive function.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 16720}
+{"id": "alpaca-43476", "set": "control", "split": "train", "text": "Name five chemical elements", "source": "alpaca", "category": null, "n_tokens": 4, "row": 43476}
+{"id": "alpaca-48114", "set": "control", "split": "train", "text": "Compare the economic development in China and India.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 48114}
+{"id": "alpaca-12781", "set": "control", "split": "train", "text": "Write a 2 sentence definition of biodiversity", "source": "alpaca", "category": null, "n_tokens": 8, "row": 12781}
+{"id": "alpaca-25958", "set": "control", "split": "train", "text": "Edit the following sentence to make it more concise: We regret to inform you that we are unable to accept your proposal.", "source": "alpaca", "category": null, "n_tokens": 24, "row": 25958}
+{"id": "alpaca-31726", "set": "control", "split": "train", "text": "Generate a unique example of hyperbole.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 31726}
+{"id": "alpaca-29049", "set": "control", "split": "train", "text": "List five of the essential components for making a good cup of coffee.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 29049}
+{"id": "alpaca-16539", "set": "control", "split": "train", "text": "Come up with a creative way to teach elementary school students about the water cycle.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 16539}
+{"id": "alpaca-33149", "set": "control", "split": "train", "text": "Determine the appropriate letter grade for a student who got an 84 on a test.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 33149}
+{"id": "alpaca-49877", "set": "control", "split": "train", "text": "Name two professions that require a lot of writing.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 49877}
+{"id": "alpaca-40165", "set": "control", "split": "train", "text": "Generate a cocktail recipe using orange juice and vodka as the two main ingredients.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 40165}
+{"id": "alpaca-16110", "set": "control", "split": "train", "text": "Describe a specific goal related to exercising.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 16110}
+{"id": "alpaca-51795", "set": "control", "split": "train", "text": "Write a query to select the top 3 products in descending order.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 51795}
+{"id": "alpaca-08269", "set": "control", "split": "train", "text": "Describe a successful advertising campaign", "source": "alpaca", "category": null, "n_tokens": 5, "row": 8269}
+{"id": "alpaca-02881", "set": "control", "split": "train", "text": "How can I combine blue and pink for my bedroom?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 2881}
+{"id": "alpaca-27182", "set": "control", "split": "train", "text": "Compose a song about a rainy day.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 27182}
+{"id": "alpaca-51090", "set": "control", "split": "train", "text": "Generate a hashtag for a celebrity fashion brand.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 51090}
+{"id": "alpaca-18334", "set": "control", "split": "train", "text": "Create a Python program to print a random number between 1 and 100.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 18334}
+{"id": "alpaca-15693", "set": "control", "split": "train", "text": "Generate a hailing call for a fantasy book character.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 15693}
+{"id": "alpaca-25506", "set": "control", "split": "train", "text": "Using only five words, describe a movie scene.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 25506}
+{"id": "alpaca-35594", "set": "control", "split": "train", "text": "Imagine you just won the lottery. Describe what your life would be like after that.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 35594}
+{"id": "alpaca-01820", "set": "control", "split": "train", "text": "Name five cities in France.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 1820}
+{"id": "alpaca-28698", "set": "control", "split": "train", "text": "Describe a person wearing a cowboy hat.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 28698}
+{"id": "alpaca-14494", "set": "control", "split": "train", "text": "Generate a series of multiplication questions from 1 to 10.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 14494}
+{"id": "alpaca-20382", "set": "control", "split": "train", "text": "Generate a phrase that starts with N and ends with K.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 20382}
+{"id": "alpaca-45957", "set": "control", "split": "train", "text": "Generate a list of 3 safety tips for parents to keep in mind when their children use laptops", "source": "alpaca", "category": null, "n_tokens": 19, "row": 45957}
+{"id": "alpaca-40993", "set": "control", "split": "train", "text": "Describe a world leader that you admire.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 40993}
+{"id": "alpaca-43735", "set": "control", "split": "train", "text": "Write a sentence expressing surprise.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 43735}
+{"id": "alpaca-14676", "set": "control", "split": "train", "text": "Create a replacement for the following sentences using a different structure: \"I'm taking a break from work.\"", "source": "alpaca", "category": null, "n_tokens": 21, "row": 14676}
+{"id": "alpaca-36006", "set": "control", "split": "train", "text": "Describe how the artificial intelligence (AI) industry is likely to develop in the coming years.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 36006}
+{"id": "alpaca-22086", "set": "control", "split": "train", "text": "What are the functions of mitochondria in the human body?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 22086}
+{"id": "alpaca-25092", "set": "control", "split": "train", "text": "Compare and contrast the river Nile and river Rhine.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 25092}
+{"id": "alpaca-12534", "set": "control", "split": "train", "text": "How is a blockchain different from a database?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 12534}
+{"id": "alpaca-24448", "set": "control", "split": "train", "text": "Generate a list of questions that can be used to evaluate a machine learning model.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 24448}
+{"id": "alpaca-31179", "set": "control", "split": "train", "text": "Explain the process of photosynthesis in one paragraph.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 31179}
+{"id": "alpaca-24997", "set": "control", "split": "train", "text": "Describe the concept of digital transformation.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 24997}
+{"id": "alpaca-01103", "set": "control", "split": "train", "text": "Output the synonyms of the word \"opportunity\"", "source": "alpaca", "category": null, "n_tokens": 10, "row": 1103}
+{"id": "alpaca-44994", "set": "control", "split": "train", "text": "Complete this sentence: \"Google is best known for ________\".", "source": "alpaca", "category": null, "n_tokens": 13, "row": 44994}
+{"id": "alpaca-01862", "set": "control", "split": "train", "text": "What does the term \"reduce reuse recycle\" mean?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 1862}
+{"id": "alpaca-41342", "set": "control", "split": "train", "text": "For the following passage, identify the tone expressed by the author: \n\nThe darkness of the night was oppressive, the air was thick with fear.", "source": "alpaca", "category": null, "n_tokens": 29, "row": 41342}
+{"id": "alpaca-33766", "set": "control", "split": "train", "text": "Provide a code snippet to print the string \"Dogs are the best\".", "source": "alpaca", "category": null, "n_tokens": 15, "row": 33766}
+{"id": "alpaca-10651", "set": "control", "split": "train", "text": "What is the term for a technique used for natural language processing purposes involving the use of large amounts of data?", "source": "alpaca", "category": null, "n_tokens": 22, "row": 10651}
+{"id": "alpaca-18212", "set": "control", "split": "train", "text": "Identify two different ways of using a Drone", "source": "alpaca", "category": null, "n_tokens": 9, "row": 18212}
+{"id": "alpaca-42860", "set": "control", "split": "train", "text": "Develop a VR game centered around a post-apocalypse setting.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 42860}
+{"id": "alpaca-01985", "set": "control", "split": "train", "text": "Generate a title for a blog post about productivity tips.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 1985}
+{"id": "alpaca-30861", "set": "control", "split": "train", "text": "Summarize the key benefits of using yoga for children.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 30861}
+{"id": "alpaca-25823", "set": "control", "split": "train", "text": "Suggest an example of a sentence which uses the idiom \"throw in the towel\"", "source": "alpaca", "category": null, "n_tokens": 18, "row": 25823}
+{"id": "alpaca-07715", "set": "control", "split": "train", "text": "Imagine you are at a bakery and asked to make a cake. Describe the cake in detail.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 7715}
+{"id": "alpaca-45391", "set": "control", "split": "train", "text": "Choose two colors to go together and explain why they are a good combination.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 45391}
+{"id": "alpaca-14935", "set": "control", "split": "train", "text": "Design a mobile app interface created to track activity goals", "source": "alpaca", "category": null, "n_tokens": 10, "row": 14935}
+{"id": "alpaca-17580", "set": "control", "split": "train", "text": "Generate a list of 10 questions related to climate change.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 17580}
+{"id": "alpaca-22607", "set": "control", "split": "train", "text": "Explain how a predictive analytics model works", "source": "alpaca", "category": null, "n_tokens": 8, "row": 22607}
+{"id": "alpaca-05243", "set": "control", "split": "train", "text": "Compose a tweet about the dangers of overexposure to social media.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 5243}
+{"id": "alpaca-06616", "set": "control", "split": "train", "text": "Imagine you are designing a game. What is the best way to motivate players?", "source": "alpaca", "category": null, "n_tokens": 16, "row": 6616}
+{"id": "alpaca-31558", "set": "control", "split": "train", "text": "Create a greeting card for a friend who is going through a tough time.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 31558}
+{"id": "alpaca-35874", "set": "control", "split": "train", "text": "Compare and contrast theologies of Calvinism and Lutheranism.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 35874}
+{"id": "alpaca-27926", "set": "control", "split": "train", "text": "Describe how creating a budget can help with money management.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 27926}
+{"id": "alpaca-32240", "set": "control", "split": "train", "text": "Come up with three different synonyms for the word “happy”.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 32240}
+{"id": "alpaca-48286", "set": "control", "split": "train", "text": "What is the most important habit for entrepreneurs?", "source": "alpaca", "category": null, "n_tokens": 9, "row": 48286}
+{"id": "alpaca-45520", "set": "control", "split": "train", "text": "Select the best option for a headline that expresses the purpose of the research paper \"How Our Social Identity Impacts Our Value System\".", "source": "alpaca", "category": null, "n_tokens": 26, "row": 45520}
+{"id": "alpaca-01126", "set": "control", "split": "train", "text": "Discuss the main components of a computer system.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 1126}
+{"id": "alpaca-36691", "set": "control", "split": "train", "text": "Design a game level in a platformer.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 36691}
+{"id": "alpaca-16793", "set": "control", "split": "train", "text": "Construct a query to list the titles of all books written by John Smith", "source": "alpaca", "category": null, "n_tokens": 14, "row": 16793}
+{"id": "alpaca-04526", "set": "control", "split": "train", "text": "Write a sentence using the phrase \"the possibilities are endless\".", "source": "alpaca", "category": null, "n_tokens": 12, "row": 4526}
+{"id": "alpaca-46974", "set": "control", "split": "train", "text": "Design a workplace safety poster.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 46974}
+{"id": "alpaca-33949", "set": "control", "split": "train", "text": "Find the latitude and longitude of the Statue of Liberty.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 33949}
+{"id": "alpaca-25789", "set": "control", "split": "train", "text": "Describe a rescue mission in space.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 25789}
+{"id": "alpaca-09291", "set": "control", "split": "train", "text": "Describe a positive trait that you possess.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 9291}
+{"id": "alpaca-15063", "set": "control", "split": "train", "text": "Describe the ‘theory of mind'", "source": "alpaca", "category": null, "n_tokens": 7, "row": 15063}
+{"id": "alpaca-40501", "set": "control", "split": "train", "text": "Identify the names of the three micro-services used in a model cloud architecture.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 40501}
+{"id": "alpaca-39832", "set": "control", "split": "train", "text": "Write an algorithm for switching five traffic lights.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 39832}
+{"id": "alpaca-51277", "set": "control", "split": "train", "text": "Generate a list of potential job requirements for a software engineer role.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 51277}
+{"id": "alpaca-22781", "set": "control", "split": "train", "text": "Write a function to search an array", "source": "alpaca", "category": null, "n_tokens": 7, "row": 22781}
+{"id": "alpaca-06954", "set": "control", "split": "train", "text": "Generate a fake name and address.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 6954}
+{"id": "alpaca-45222", "set": "control", "split": "train", "text": "Please provide a sample input for a classification task.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 45222}
+{"id": "alpaca-40666", "set": "control", "split": "train", "text": "How does the greenhouse effect work?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 40666}
+{"id": "alpaca-19895", "set": "control", "split": "train", "text": "Generate an email subject to let the receiver know you are sending an important document.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 19895}
+{"id": "alpaca-10635", "set": "control", "split": "train", "text": "What is the purpose of an identity management system?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 10635}
+{"id": "alpaca-22401", "set": "control", "split": "train", "text": "Explain why the sun appears to move across the sky.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 22401}
+{"id": "alpaca-20142", "set": "control", "split": "train", "text": "Name a famous American landmark.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 20142}
+{"id": "alpaca-25260", "set": "control", "split": "train", "text": "Can you generate a list of four benefits of taking a break?", "source": "alpaca", "category": null, "n_tokens": 13, "row": 25260}
+{"id": "alpaca-17337", "set": "control", "split": "train", "text": "Create a story about a student who had an upcoming exam and was studying with his friends.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 17337}
+{"id": "alpaca-08020", "set": "control", "split": "train", "text": "Explain the physical properties of air.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 8020}
+{"id": "alpaca-07818", "set": "control", "split": "train", "text": "Summarize the character arc of Bilbo Baggins in The Lord of the Rings.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 7818}
+{"id": "alpaca-35440", "set": "control", "split": "train", "text": "Paraphrase the following sentence: I want to buy a car.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 35440}
+{"id": "alpaca-09716", "set": "control", "split": "train", "text": "Summarize the importance of sleep", "source": "alpaca", "category": null, "n_tokens": 7, "row": 9716}
+{"id": "alpaca-16983", "set": "control", "split": "train", "text": "Name four common types of software", "source": "alpaca", "category": null, "n_tokens": 6, "row": 16983}
+{"id": "alpaca-16447", "set": "control", "split": "train", "text": "What are the best practices to protect your online identity?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 16447}
+{"id": "alpaca-47228", "set": "control", "split": "train", "text": "List 3 differences between a tabby cat and a Siamese cat.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 47228}
+{"id": "alpaca-33759", "set": "control", "split": "train", "text": "Compare the nutritional benefits of grass-fed beef and grain-fed beef.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 33759}
+{"id": "alpaca-21100", "set": "control", "split": "train", "text": "Explain what natural selection is.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 21100}
+{"id": "alpaca-04206", "set": "control", "split": "train", "text": "Record the following procedure on how to install a software.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 4206}
+{"id": "alpaca-14873", "set": "control", "split": "train", "text": "Explain how civil rights in the United States have evolved over time.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 14873}
+{"id": "alpaca-45579", "set": "control", "split": "train", "text": "Suggest an appropriate title for the following passage\n\nWe live in a world where technology is advancing rapidly. Innovations in artificial intelligence (AI), robotics, data science and the internet of things has become commonplace in today’s society.", "source": "alpaca", "category": null, "n_tokens": 46, "row": 45579}
+{"id": "alpaca-02120", "set": "control", "split": "train", "text": "Create a blueprint for an app that creates memes from user input.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 2120}
+{"id": "alpaca-29982", "set": "control", "split": "train", "text": "Compare the differences between Google Chrome and Mozilla Firefox.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 29982}
+{"id": "alpaca-49749", "set": "control", "split": "train", "text": "Estimate the probability of winning the lottery.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 49749}
+{"id": "alpaca-08915", "set": "control", "split": "train", "text": "Describe why the Industrial Revolution was important in U.S. history.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 8915}
+{"id": "alpaca-14816", "set": "control", "split": "train", "text": "Find the value of x when 3(2x +1) = 15.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 14816}
+{"id": "alpaca-19941", "set": "control", "split": "train", "text": "Explain the process of mitosis in 200 words.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 19941}
+{"id": "alpaca-12016", "set": "control", "split": "train", "text": "Suggest some menu items for a restaurant that specializes in Indian Cuisine.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 12016}
+{"id": "alpaca-05195", "set": "control", "split": "train", "text": "Write an example of an editorial that discusses the disadvantages of online education.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 5195}
+{"id": "alpaca-42481", "set": "control", "split": "train", "text": "Describe a monsoon season in India.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 42481}
+{"id": "alpaca-14706", "set": "control", "split": "train", "text": "Who is an example of a modern day leader?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 14706}
+{"id": "alpaca-19201", "set": "control", "split": "train", "text": "Give an example of a country located in South America.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 19201}
+{"id": "alpaca-42395", "set": "control", "split": "train", "text": "Edit the following sentence to make it more concise:\n\n\"Writing a resume is an important step in the job search process because it is essential for getting you noticed by employers\"", "source": "alpaca", "category": null, "n_tokens": 34, "row": 42395}
+{"id": "alpaca-51393", "set": "control", "split": "train", "text": "Explain how to obtain the square root of a number", "source": "alpaca", "category": null, "n_tokens": 11, "row": 51393}
+{"id": "alpaca-44070", "set": "control", "split": "train", "text": "Design a smart assistant conversation conversation flow to help users figure out local public transport fare information.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 44070}
+{"id": "alpaca-51844", "set": "control", "split": "train", "text": "Analyze why the Industrial Revolution happened in England.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 51844}
+{"id": "alpaca-42393", "set": "control", "split": "train", "text": "Suppose you are a high school student. What are some of the benefits of joining a club?", "source": "alpaca", "category": null, "n_tokens": 20, "row": 42393}
+{"id": "alpaca-48377", "set": "control", "split": "train", "text": "In 150 words, explain why technology is important in today's society.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 48377}
+{"id": "alpaca-17461", "set": "control", "split": "train", "text": "Describe the voting process in the United States", "source": "alpaca", "category": null, "n_tokens": 8, "row": 17461}
+{"id": "alpaca-22869", "set": "control", "split": "train", "text": "Research the Lost City of Petra and summarize its history in 3 sentences.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 22869}
+{"id": "alpaca-25434", "set": "control", "split": "train", "text": "List the countries that make up the United Kingdom.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 25434}
+{"id": "alpaca-26545", "set": "control", "split": "train", "text": "Provide an appropriate response to this customer complaint:\n\"I have never received my order\"", "source": "alpaca", "category": null, "n_tokens": 16, "row": 26545}
+{"id": "alpaca-40998", "set": "control", "split": "train", "text": "What challenges might AI pose to humans in the future?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 40998}
+{"id": "alpaca-21129", "set": "control", "split": "train", "text": "Detail the advantages of competing in an international market.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 21129}
+{"id": "alpaca-31225", "set": "control", "split": "train", "text": "Compare and contrast horror movies from the 70s to ones made today.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 31225}
+{"id": "alpaca-32165", "set": "control", "split": "train", "text": "Explain the concept of template matching", "source": "alpaca", "category": null, "n_tokens": 7, "row": 32165}
+{"id": "alpaca-18461", "set": "control", "split": "train", "text": "Hi! Please come up with three fun facts about the United Kingdom.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 18461}
+{"id": "alpaca-14750", "set": "control", "split": "train", "text": "Design a logo for an organic food company.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 14750}
+{"id": "alpaca-05314", "set": "control", "split": "train", "text": "Explain how the concept of the multiverse might work in theoretical physics.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 5314}
+{"id": "alpaca-38502", "set": "control", "split": "train", "text": "Describe the experience of going to a restaurant.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 38502}
+{"id": "alpaca-31376", "set": "control", "split": "train", "text": "Suggest four ways to make a long-distance relationship work.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 31376}
+{"id": "alpaca-05840", "set": "control", "split": "train", "text": "Describe a healthy diet", "source": "alpaca", "category": null, "n_tokens": 4, "row": 5840}
+{"id": "alpaca-41326", "set": "control", "split": "train", "text": "Create a list of the five biggest cities in China", "source": "alpaca", "category": null, "n_tokens": 10, "row": 41326}
+{"id": "alpaca-17186", "set": "control", "split": "train", "text": "Identify the correct syntax to declare a variable in Java.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 17186}
+{"id": "alpaca-18345", "set": "control", "split": "train", "text": "Analyze the content of the meme and explain the main idea.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 18345}
+{"id": "alpaca-19396", "set": "control", "split": "train", "text": "Describe a computer network in 5 words.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 19396}
+{"id": "alpaca-27130", "set": "control", "split": "train", "text": "Find the article in the newspaper that is related to the topic of healthcare.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 27130}
+{"id": "alpaca-35764", "set": "control", "split": "train", "text": "Generate a solution for the following equation: 2x + 1 = 7", "source": "alpaca", "category": null, "n_tokens": 17, "row": 35764}
+{"id": "alpaca-47917", "set": "control", "split": "train", "text": "Translate the phrase \"Salut tout le monde!\" to English.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 47917}
+{"id": "alpaca-28040", "set": "control", "split": "train", "text": "Name one color and one texture associated with autumn.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 28040}
+{"id": "alpaca-01317", "set": "control", "split": "train", "text": "Generate a marketing slogan for a car company.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 1317}
+{"id": "alpaca-27806", "set": "control", "split": "train", "text": "Explain why tree rings are important.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 27806}
+{"id": "alpaca-31279", "set": "control", "split": "train", "text": "Generate a tagline which conveys the company's mission.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 31279}
+{"id": "alpaca-14364", "set": "control", "split": "train", "text": "Construct an example of a quadratic equation.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 14364}
+{"id": "alpaca-14790", "set": "control", "split": "train", "text": "Generate a poem using a special type of poetic form.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 14790}
+{"id": "alpaca-42091", "set": "control", "split": "train", "text": "Write a sentence using the form of \"defining relative clause\"", "source": "alpaca", "category": null, "n_tokens": 13, "row": 42091}
+{"id": "alpaca-46944", "set": "control", "split": "train", "text": "What did the author mean when they wrote \"His actions spoke louder than words\"?", "source": "alpaca", "category": null, "n_tokens": 16, "row": 46944}
+{"id": "alpaca-30035", "set": "control", "split": "train", "text": "Create a set of rules for the game of hangman.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 30035}
+{"id": "alpaca-49039", "set": "control", "split": "train", "text": "Write an instruction for a game of Jeopardy using the following topics:  Astronomy, Math, and Geology.", "source": "alpaca", "category": null, "n_tokens": 24, "row": 49039}
+{"id": "alpaca-22336", "set": "control", "split": "train", "text": "Come up with five innovative ways to make a presentation", "source": "alpaca", "category": null, "n_tokens": 10, "row": 22336}
+{"id": "alpaca-27431", "set": "control", "split": "train", "text": "Say something to cheer up a person who is feeling down.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 27431}
+{"id": "alpaca-41112", "set": "control", "split": "train", "text": "Provide a case study of how technology has been used to improve healthcare.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 41112}
+{"id": "alpaca-43929", "set": "control", "split": "train", "text": "Name 3 major events in the Cold War.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 43929}
+{"id": "alpaca-08737", "set": "control", "split": "train", "text": "Design a system for storing and retrieving large amounts of data.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 8737}
+{"id": "alpaca-45243", "set": "control", "split": "train", "text": "Can you explain why laughter is important?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 45243}
+{"id": "alpaca-33326", "set": "control", "split": "train", "text": "Name a common chess opening move.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 33326}
+{"id": "alpaca-03604", "set": "control", "split": "train", "text": "Generate a story about a character living in a post-apocalyptic world.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 3604}
+{"id": "alpaca-21098", "set": "control", "split": "train", "text": "List three of the five continents.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 21098}
+{"id": "alpaca-42501", "set": "control", "split": "train", "text": "Describe how a decision tree algorithm can be used for fraud detection", "source": "alpaca", "category": null, "n_tokens": 12, "row": 42501}
+{"id": "alpaca-16368", "set": "control", "split": "train", "text": "Give an example of a project that an AI developer could do", "source": "alpaca", "category": null, "n_tokens": 12, "row": 16368}
+{"id": "alpaca-36028", "set": "control", "split": "train", "text": "Develop a marketing strategy for a gift shop", "source": "alpaca", "category": null, "n_tokens": 8, "row": 36028}
+{"id": "alpaca-50036", "set": "control", "split": "train", "text": "Fill in the blank \"Computers can help us to _____ information more efficiently.\"", "source": "alpaca", "category": null, "n_tokens": 16, "row": 50036}
+{"id": "alpaca-47096", "set": "control", "split": "train", "text": "Describe the type of customer service the company wants to provide.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 47096}
+{"id": "alpaca-13947", "set": "control", "split": "train", "text": "Make a list of 3 reasons why sleep is important.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 13947}
+{"id": "alpaca-19841", "set": "control", "split": "train", "text": "Generate a hypothesis testing question related to education.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 19841}
+{"id": "alpaca-51777", "set": "control", "split": "train", "text": "Design a financial portfolio for an investor with an aggressive investment strategy.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 51777}
+{"id": "alpaca-06862", "set": "control", "split": "train", "text": "Generate a sentence for greeting a customer", "source": "alpaca", "category": null, "n_tokens": 7, "row": 6862}
+{"id": "alpaca-40408", "set": "control", "split": "train", "text": "Construct a database that can store customer information.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 40408}
+{"id": "alpaca-11025", "set": "control", "split": "train", "text": "Explain what traditional Mexican cuisine is.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 11025}
+{"id": "alpaca-20791", "set": "control", "split": "train", "text": "Summarize the main points of Martin Luther King, Jr.'s \"I Have a Dream\" speech.", "source": "alpaca", "category": null, "n_tokens": 22, "row": 20791}
+{"id": "alpaca-42693", "set": "control", "split": "train", "text": "Develop an idea for a mobile game that is based on an animal.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 42693}
+{"id": "alpaca-32814", "set": "control", "split": "train", "text": "Research and comment on the current state of digital marketing.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 32814}
+{"id": "alpaca-33521", "set": "control", "split": "train", "text": "Generate a random number from 1 to 10.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 33521}
+{"id": "alpaca-03537", "set": "control", "split": "train", "text": "Brainstorm persuasive speech topics.", "source": "alpaca", "category": null, "n_tokens": 6, "row": 3537}
+{"id": "alpaca-21204", "set": "control", "split": "train", "text": "Write a CSS rule to center the words \"center me\" in the page.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 21204}
+{"id": "alpaca-21360", "set": "control", "split": "train", "text": "Develop a program to generate a random set of numbers from 1 to 10.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 21360}
+{"id": "alpaca-20320", "set": "control", "split": "train", "text": "Explain what is the scientific method", "source": "alpaca", "category": null, "n_tokens": 7, "row": 20320}
+{"id": "alpaca-02518", "set": "control", "split": "train", "text": "What is the source of the data for a typical machine learning project?", "source": "alpaca", "category": null, "n_tokens": 14, "row": 2518}
+{"id": "alpaca-34355", "set": "control", "split": "train", "text": "How long did Shakespeare live?", "source": "alpaca", "category": null, "n_tokens": 6, "row": 34355}
+{"id": "alpaca-27699", "set": "control", "split": "train", "text": "Generate a valid HTML code for a web page with a table.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 27699}
+{"id": "alpaca-46841", "set": "control", "split": "train", "text": "Compile a list of 5 specific characteristics of a software engineer.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 46841}
+{"id": "alpaca-14497", "set": "control", "split": "train", "text": "Suggest a new vocabulary word.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 14497}
+{"id": "alpaca-32740", "set": "control", "split": "train", "text": "Rewrite the sentence \"She looked out of the window\" to make it more concise.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 32740}
+{"id": "alpaca-39503", "set": "control", "split": "train", "text": "State a law of physics", "source": "alpaca", "category": null, "n_tokens": 5, "row": 39503}
+{"id": "alpaca-20172", "set": "control", "split": "train", "text": "Describe the importance of an education in developing countries.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 20172}
+{"id": "alpaca-17011", "set": "control", "split": "train", "text": "Describe the time management process for a project.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 17011}
+{"id": "alpaca-09446", "set": "control", "split": "train", "text": "Describe the principles of loyalty marketing.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 9446}
+{"id": "alpaca-42111", "set": "control", "split": "train", "text": "What is an operating system and what is its purpose?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 42111}
+{"id": "alpaca-16951", "set": "control", "split": "train", "text": "Describe the difference between data mining and data analysis.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 16951}
+{"id": "alpaca-00758", "set": "control", "split": "train", "text": "Generate a list of five positive attitudes.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 758}
+{"id": "alpaca-31579", "set": "control", "split": "train", "text": "Arrange the following words alphabetically: blue, white, silver, yellow", "source": "alpaca", "category": null, "n_tokens": 14, "row": 31579}
+{"id": "alpaca-35377", "set": "control", "split": "train", "text": "Create a poem using the following words: weekend, sunrise, first.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 35377}
+{"id": "alpaca-41063", "set": "control", "split": "train", "text": "Translate the following sentence from Spanish to English:\n\nEl hermano de ella fue a la tienda.", "source": "alpaca", "category": null, "n_tokens": 21, "row": 41063}
+{"id": "alpaca-49363", "set": "control", "split": "train", "text": "What are the five freedoms protected by the First Amendment?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 49363}
+{"id": "alpaca-18205", "set": "control", "split": "train", "text": "List three advantages of using AI in medical diagnostics.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 18205}
+{"id": "alpaca-29108", "set": "control", "split": "train", "text": "Compose an email to a professor to make an appointment.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 29108}
+{"id": "alpaca-16240", "set": "control", "split": "train", "text": "Explain the difference between Inductive and Deductive reasoning.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 16240}
+{"id": "alpaca-08640", "set": "control", "split": "train", "text": "Summarize this article: https://example.com/article", "source": "alpaca", "category": null, "n_tokens": 11, "row": 8640}
+{"id": "alpaca-41071", "set": "control", "split": "train", "text": "Explain the taxonomy of animals.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 41071}
+{"id": "alpaca-28742", "set": "control", "split": "train", "text": "Write an obituary for a famous scientist", "source": "alpaca", "category": null, "n_tokens": 9, "row": 28742}
+{"id": "alpaca-24425", "set": "control", "split": "train", "text": "Make an accurate analogy for the term \"financial risk\".", "source": "alpaca", "category": null, "n_tokens": 11, "row": 24425}
+{"id": "alpaca-04955", "set": "control", "split": "train", "text": "Suggest one synonym for the word \"eliminate\".", "source": "alpaca", "category": null, "n_tokens": 11, "row": 4955}
+{"id": "alpaca-19061", "set": "control", "split": "train", "text": "Compute the value of the function y=x^2-2x+1 when x=2", "source": "alpaca", "category": null, "n_tokens": 19, "row": 19061}
+{"id": "alpaca-00974", "set": "control", "split": "train", "text": "Compose a song in C Major.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 974}
+{"id": "alpaca-44124", "set": "control", "split": "train", "text": "Generate a mathematical expression that uses the sum and product of two numbers and evaluates to 10.", "source": "alpaca", "category": null, "n_tokens": 20, "row": 44124}
+{"id": "alpaca-08895", "set": "control", "split": "train", "text": "Explain how infectious disease spreads", "source": "alpaca", "category": null, "n_tokens": 6, "row": 8895}
+{"id": "alpaca-46219", "set": "control", "split": "train", "text": "Generate five adjectives to describe an orange", "source": "alpaca", "category": null, "n_tokens": 8, "row": 46219}
+{"id": "alpaca-02202", "set": "control", "split": "train", "text": "Rewrite the following sentence in active voice: \nThe ball was thrown by Jack.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 2202}
+{"id": "alpaca-06070", "set": "control", "split": "train", "text": "How would you differentiate between two types of computer processors?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 6070}
+{"id": "alpaca-30660", "set": "control", "split": "train", "text": "Who wrote the Game of Thrones series?", "source": "alpaca", "category": null, "n_tokens": 8, "row": 30660}
+{"id": "alpaca-11538", "set": "control", "split": "train", "text": "Write a short biography about John F. Kennedy", "source": "alpaca", "category": null, "n_tokens": 9, "row": 11538}
+{"id": "alpaca-43331", "set": "control", "split": "train", "text": "Generate a short story set near a beach.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 43331}
+{"id": "alpaca-41068", "set": "control", "split": "train", "text": "Give three uses of baking soda.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 41068}
+{"id": "alpaca-23643", "set": "control", "split": "train", "text": "Come up with 3 potential innovation ideas for a running shoe company", "source": "alpaca", "category": null, "n_tokens": 13, "row": 23643}
+{"id": "alpaca-32137", "set": "control", "split": "train", "text": "Write an original haiku poem", "source": "alpaca", "category": null, "n_tokens": 6, "row": 32137}
+{"id": "alpaca-04673", "set": "control", "split": "train", "text": "Tell a story about a young athlete’s decision to join a new team.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 4673}
+{"id": "alpaca-11058", "set": "control", "split": "train", "text": "Name five iconic landmarks.", "source": "alpaca", "category": null, "n_tokens": 5, "row": 11058}
+{"id": "alpaca-49083", "set": "control", "split": "train", "text": "What are the core requirements for a successful mobile app?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 49083}
+{"id": "alpaca-09239", "set": "control", "split": "train", "text": "Demonstrate how an animal adapts to its living environment.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 9239}
+{"id": "alpaca-00020", "set": "control", "split": "train", "text": "What does DNA stand for?", "source": "alpaca", "category": null, "n_tokens": 6, "row": 20}
+{"id": "alpaca-32348", "set": "control", "split": "train", "text": "Propose a way to make education more accessible for everyone.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 32348}
+{"id": "alpaca-04988", "set": "control", "split": "train", "text": "Write a persuasive essay about why everyone should eat a plant-based diet.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 4988}
+{"id": "alpaca-43425", "set": "control", "split": "train", "text": "Create a classifier to determine if a given email is spam or not spam.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 43425}
+{"id": "alpaca-02063", "set": "control", "split": "train", "text": "Explain how photosynthesis works in five steps.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 2063}
+{"id": "alpaca-35983", "set": "control", "split": "train", "text": "Reword this sentence: The desktop wallpaper of a user speaks a lot about him", "source": "alpaca", "category": null, "n_tokens": 16, "row": 35983}
+{"id": "alpaca-46286", "set": "control", "split": "train", "text": "Create a valid HTML heading from size 3 to size 5.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 46286}
+{"id": "alpaca-39929", "set": "control", "split": "train", "text": "Convert this amount of money from US dollars to euros: $1850.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 39929}
+{"id": "alpaca-17514", "set": "control", "split": "train", "text": "What type of birds are found in the Amazon?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 17514}
+{"id": "alpaca-08623", "set": "control", "split": "train", "text": "Categorize the following tweet as positive, negative, or neutral: That was incredible!", "source": "alpaca", "category": null, "n_tokens": 18, "row": 8623}
+{"id": "alpaca-07448", "set": "control", "split": "train", "text": "Explain Aristotle's theory of four causes.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 7448}
+{"id": "alpaca-08991", "set": "control", "split": "train", "text": "Come up with a product idea to solve a problem.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 8991}
+{"id": "alpaca-17954", "set": "control", "split": "train", "text": "Name two similarities between a tomato and an apple.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 17954}
+{"id": "alpaca-18012", "set": "control", "split": "train", "text": "What day of the week is July 4th?", "source": "alpaca", "category": null, "n_tokens": 11, "row": 18012}
+{"id": "alpaca-19242", "set": "control", "split": "train", "text": "Write a code to check if a string contains more than 20 characters.", "source": "alpaca", "category": null, "n_tokens": 16, "row": 19242}
+{"id": "alpaca-11876", "set": "control", "split": "train", "text": "Complete the analogy: A knife is to a fork as a spoon is to a ____.", "source": "alpaca", "category": null, "n_tokens": 18, "row": 11876}
+{"id": "alpaca-01867", "set": "control", "split": "train", "text": "Find 3 new and creative ways to use banana peels.", "source": "alpaca", "category": null, "n_tokens": 13, "row": 1867}
+{"id": "alpaca-46606", "set": "control", "split": "train", "text": "List the reasons why teenagers require a unique set of healthcare.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 46606}
+{"id": "alpaca-30537", "set": "control", "split": "train", "text": "Generate a list of 5 metrics that can be used to evaluate an AI assistant's performance.", "source": "alpaca", "category": null, "n_tokens": 19, "row": 30537}
+{"id": "alpaca-01675", "set": "control", "split": "train", "text": "Design an online marketing campaign to increase customer engagement.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 1675}
+{"id": "alpaca-45545", "set": "control", "split": "train", "text": "Write a haiku about your first day of school.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 45545}
+{"id": "alpaca-20647", "set": "control", "split": "train", "text": "Name three benefits of being bilingual.", "source": "alpaca", "category": null, "n_tokens": 7, "row": 20647}
+{"id": "alpaca-43458", "set": "control", "split": "train", "text": "Identify three business metrics that a company should measure to ensure successful growth.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 43458}
+{"id": "alpaca-07358", "set": "control", "split": "train", "text": "Generate a thesis statement for a cause and effect essay.", "source": "alpaca", "category": null, "n_tokens": 11, "row": 7358}
+{"id": "alpaca-40671", "set": "control", "split": "train", "text": "Suggest the best outfit for a cocktail party", "source": "alpaca", "category": null, "n_tokens": 9, "row": 40671}
+{"id": "alpaca-31137", "set": "control", "split": "train", "text": "How can you identify if a website is safe to use?", "source": "alpaca", "category": null, "n_tokens": 12, "row": 31137}
+{"id": "alpaca-18232", "set": "control", "split": "train", "text": "Create a dictionary of 5 items, with keys being numbers and values being strings.", "source": "alpaca", "category": null, "n_tokens": 17, "row": 18232}
+{"id": "alpaca-21595", "set": "control", "split": "train", "text": "Create a lyric for the chorus of a song about diamonds.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 21595}
+{"id": "alpaca-32206", "set": "control", "split": "train", "text": "Who was the 10th US President?", "source": "alpaca", "category": null, "n_tokens": 10, "row": 32206}
+{"id": "alpaca-31242", "set": "control", "split": "train", "text": "List three unique features of a zebra", "source": "alpaca", "category": null, "n_tokens": 8, "row": 31242}
+{"id": "alpaca-50916", "set": "control", "split": "train", "text": "Transform the following phrase into a contraction:\n\nThey are", "source": "alpaca", "category": null, "n_tokens": 10, "row": 50916}
+{"id": "alpaca-49211", "set": "control", "split": "train", "text": "Describe a moral problem related to AI.", "source": "alpaca", "category": null, "n_tokens": 8, "row": 49211}
+{"id": "alpaca-19460", "set": "control", "split": "train", "text": "Evaluate the argument \"We should not raise taxes on the wealthy\".", "source": "alpaca", "category": null, "n_tokens": 13, "row": 19460}
+{"id": "alpaca-45159", "set": "control", "split": "train", "text": "Explain why diversity is important at work.", "source": "alpaca", "category": null, "n_tokens": 9, "row": 45159}
+{"id": "alpaca-25410", "set": "control", "split": "train", "text": "Create a unique print advertisement for a newly launched cheeseburger.", "source": "alpaca", "category": null, "n_tokens": 12, "row": 25410}
+{"id": "alpaca-34942", "set": "control", "split": "train", "text": "Generate a list of possible ideas to capture engagement of a potential customer.", "source": "alpaca", "category": null, "n_tokens": 14, "row": 34942}
+{"id": "alpaca-11212", "set": "control", "split": "train", "text": "Suggest a data structure to store user data.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 11212}
+{"id": "alpaca-22440", "set": "control", "split": "train", "text": "Name a popular TV show from the 2000s", "source": "alpaca", "category": null, "n_tokens": 13, "row": 22440}
+{"id": "alpaca-30492", "set": "control", "split": "train", "text": "How do ecological services enhance biodiversity?", "source": "alpaca", "category": null, "n_tokens": 7, "row": 30492}
+{"id": "alpaca-43030", "set": "control", "split": "train", "text": "Write a summary in five sentences of the film \"Pulp Fiction\".", "source": "alpaca", "category": null, "n_tokens": 14, "row": 43030}
+{"id": "alpaca-07951", "set": "control", "split": "train", "text": "Write a short story about a boy who is trying to save his village.", "source": "alpaca", "category": null, "n_tokens": 15, "row": 7951}
+{"id": "alpaca-28668", "set": "control", "split": "train", "text": "Create a metaphor that illustrates the journey of life.", "source": "alpaca", "category": null, "n_tokens": 10, "row": 28668}

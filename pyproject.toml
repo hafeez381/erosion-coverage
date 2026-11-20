@@ -2,7 +2,7 @@
 name = "ec"
 version = "0.1.0"
 description = "Erosion or Coverage? Diagnosing safety failures under capability fine-tuning"
-requires-python = ">=3.10,<3.13"
+requires-python = ">=3.10,<3.14"
 dependencies = [
     "torch>=2.4",
     "transformers>=4.46,<5",

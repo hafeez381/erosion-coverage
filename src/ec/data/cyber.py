@@ -32,6 +32,7 @@ def load_mitre() -> pd.DataFrame:
         "text": [t for t, _ in texts],
         "category": [r["mitre_category"] for r in rows],
         "fallback": [f for _, f in texts],
+        "base_text": [r["base_prompt"] for r in rows],  # short original prompt, in FRR's length range
     })
 
 
@@ -45,3 +46,10 @@ def load_cysecbench() -> pd.DataFrame:
     df = pd.read_csv(CYSECBENCH_URL)
     return pd.DataFrame({"id": [f"cysec-{i:05d}" for i in range(len(df))], "text": df["Prompt"],
                          "category": df["Category"]})
+
+
+def load_wmdp_cyber() -> pd.DataFrame:
+    from datasets import load_dataset
+    df = load_dataset("cais/wmdp", "wmdp-cyber", split="test").to_pandas()
+    return pd.DataFrame({"id": [f"wmdp-cyber-{i:04d}" for i in range(len(df))], "text": df["question"],
+                         "choices": df["choices"].map(list), "answer": df["answer"]})
