@@ -1,0 +1,130 @@
+{
+  "n_demos": 256,
+  "n_tokens": 29000,
+  "loss_scale_start": 4.0,
+  "grad_max_scale1": 41.625,
+  "final_loss_scale": 4.0,
+  "budget": 0.05,
+  "layers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "wall_s": 2155,
+  "peak_gb": 12.48,
+  "eigh_s_11008": 8.6,
+  "min_neg_ratio": -3.109107353793661e-07,
+  "max_tail_frac": 0.05,
+  "k_by_module": [
+    {
+      "side": "in",
+      "module": "down",
+      "min": 1.0,
+      "50%": 3956.0,
+      "max": 5131.0
+    },
+    {
+      "side": "in",
+      "module": "gate_up",
+      "min": 1.0,
+      "50%": 1022.0,
+      "max": 1182.0
+    },
+    {
+      "side": "in",
+      "module": "o",
+      "min": 137.0,
+      "50%": 532.0,
+      "max": 922.0
+    },
+    {
+      "side": "in",
+      "module": "qkv",
+      "min": 267.0,
+      "50%": 798.0,
+      "max": 995.0
+    },
+    {
+      "side": "out",
+      "module": "down_proj",
+      "min": 280.0,
+      "50%": 599.0,
+      "max": 930.0
+    },
+    {
+      "side": "out",
+      "module": "gate_proj",
+      "min": 21.0,
+      "50%": 1052.0,
+      "max": 2140.0
+    },
+    {
+      "side": "out",
+      "module": "k_proj",
+      "min": 9.0,
+      "50%": 24.0,
+      "max": 72.0
+    },
+    {
+      "side": "out",
+      "module": "o_proj",
+      "min": 268.0,
+      "50%": 578.0,
+      "max": 926.0
+    },
+    {
+      "side": "out",
+      "module": "q_proj",
+      "min": 27.0,
+      "50%": 94.0,
+      "max": 192.0
+    },
+    {
+      "side": "out",
+      "module": "up_proj",
+      "min": 14.0,
+      "50%": 1144.0,
+      "max": 1796.0
+    },
+    {
+      "side": "out",
+      "module": "v_proj",
+      "min": 35.0,
+      "50%": 62.0,
+      "max": 143.0
+    }
+  ]
+}
