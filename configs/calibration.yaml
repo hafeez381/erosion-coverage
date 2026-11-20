@@ -1,0 +1,8 @@
+# Decision 2, 4, 5. Generic calibration (C7). Bases on the Hub under calib/generic/.
+demos: beavertails_calib split=calib first 256
+max_len: 512
+loss: sum over all tokens
+loss_scale: per layer file (start 4.0)
+budget_b: 0.05
+n_tokens_generic: 29000
+Q_storage: fp16, QR on load
