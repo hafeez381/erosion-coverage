@@ -27,6 +27,7 @@ os.environ["HF_TOKEN"] = hf_token() or ""
 assert os.environ["HF_TOKEN"], "no HF token: add the HF_TOKEN secret or attach the token dataset"
 sh(f"git clone --depth 1 -b {BRANCH} https://github.com/hafeez381/erosion-coverage.git /kaggle/working/ec")
 sh(f"{sys.executable} -m pip install -q -e '/kaggle/working/ec[gpu]'")
+sh(f"{sys.executable} -m pip uninstall -y -q torchao")  # Kaggle ships torchao 0.10; new PEFT rejects it
 os.chdir("/kaggle/working/ec")
 # Smoke run on 4 prompts per set first, so a bug costs minutes, not hours.
 sh("python scripts/j8_base_eval.py --limit 4 --out /kaggle/working/results/base_smoke --private /kaggle/working/private_smoke")
