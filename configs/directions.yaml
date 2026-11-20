@@ -1,0 +1,3 @@
+# Pre-registered (Decision 6). Cache indices: index l is decoder block l+1.
+band: [26, 27, 28, 29, 30, 31, 32, 33]
+positions: [t_inst, t_post_inst]

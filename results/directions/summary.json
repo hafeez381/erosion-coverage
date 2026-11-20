@@ -1,0 +1,37 @@
+{
+  "n_fit": {
+    "harmful_refused": 98,
+    "harmless_answered": 100
+  },
+  "band_cache_idx": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "band_layers": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "heldout_auroc_H": 0.9972,
+  "max_layer_auroc_t_inst": 0.9983,
+  "cos_vharm_vref_band_mean": 0.0996,
+  "ablation": {
+    "layer": 27,
+    "base_harmful_refusal": 0.95,
+    "base_harmless_refusal": 0.0,
+    "random_harmful_refusal": 1.0,
+    "vref_harmful_refusal": 0.05,
+    "vref_harmless_refusal": 0.0
+  }
+}
