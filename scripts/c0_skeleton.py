@@ -20,6 +20,7 @@ from ec.model import build_batch, chat_text, load
 from ec.repr.cache import cache
 from ec.repr.scores import T_INST, T_POST, class_means, score
 from ec.seed import SEED, seed_everything
+from ec.train.loss import answer_loss
 
 # Stub generic prompts; C1 builds the real AdvBench/HarmBench/Alpaca sets.
 HARMFUL = [
@@ -58,7 +59,8 @@ def sft_batch(tok, rows, max_len):
 
 
 def lora_step(model, enc, labels, opt):
-    loss = model(**enc.to(model.device), labels=labels.to(model.device)).loss
+    enc = enc.to(model.device)
+    loss = answer_loss(model, enc["input_ids"], enc["attention_mask"], labels)
     loss.backward()
     opt.step()
     opt.zero_grad(set_to_none=True)

@@ -17,6 +17,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
+gpu = ["bitsandbytes>=0.43"]
 
 [build-system]
 requires = ["setuptools>=68"]
